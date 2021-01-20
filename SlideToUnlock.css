@@ -132,8 +132,11 @@
 .platform-win .sidebar-2K8pFh {
     border-radius: 0px 0 0;
 }
-.userLimit-3aerPX {
-    
+.icon-22AiRD {
+    border-radius: 3px;
+    border: 1px solid #000000;
+    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    color: rgb(0, 0, 0) !important;
 }
 
 /* Server Buttons */
@@ -269,11 +272,10 @@
 
 /* Message options */
 .scroller-3BxosC {
-    background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) !important;
-    text-decoration-color: black;
-    border: 1px solid #00000065;
     border-radius: 3px;
-    left: 0px;
+    border: 1px solid #000000;
+    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    color: rgb(0, 0, 0) !important;
 }
 .label-22pbtT {
     font-weight: 700;
@@ -283,11 +285,10 @@
     color: rgba(0, 0, 0, 0);
 }
 .wrapper-2aW0bm {
-    background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) !important;
-    text-decoration-color: black;
-    border: 1px solid #00000065;
     border-radius: 3px;
-    left: 0px;
+    border: 1px solid #000000;
+    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    color: rgb(0, 0, 0) !important;
 }
 .icon-3Gkjwa {
     color: black;
