@@ -67,7 +67,7 @@
 }
 .scrollableContainer-2NUZem {
     background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
-    border-radius: 0px;
+    border: 1px solid #00000065;
 }
 
 /* User Stuff Thing */
