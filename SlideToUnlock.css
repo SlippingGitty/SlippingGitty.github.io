@@ -140,7 +140,11 @@
     background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
     color: rgb(0, 0, 0) !important;
 }
-
+.status-1fhblQ, .description-2L932D {
+    font-weight: 700;
+    color: black;
+    text-shadow: 2px 2px 2px #00000000;
+}
 /* Server Buttons */
 .circleIconButton-jET_ig {
     padding: 6px 10px 5px;
@@ -282,6 +286,7 @@
 .label-22pbtT {
     font-weight: 700;
     color: black;
+    text-shadow: 2px 2px 2px #00000000;
 }
 .icon-LYJorE, .iconContainer-2-XQPY, .icon-3Gkjwa, {
     color: rgba(0, 0, 0, 0);
@@ -293,6 +298,9 @@
     color: rgb(0, 0, 0) !important;
 }
 .icon-3Gkjwa {
+    color: black;
+}
+.icon-LYJorE, .iconContainer-2-XQPY {
     color: black;
 }
 
