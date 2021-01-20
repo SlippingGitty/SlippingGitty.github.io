@@ -132,6 +132,9 @@
 .platform-win .sidebar-2K8pFh {
     border-radius: 0px 0 0;
 }
+.userLimit-3aerPX {
+    
+}
 
 /* Server Buttons */
 .circleIconButton-jET_ig {
@@ -214,9 +217,17 @@
 .nowPlayingScroller-2XrVUt {
     background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
 }
+.nowPlayingColumn-2sl4cE {
+    background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+}
 .itemCard-v9viV7 {
     font-weight: 700;
     background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+}
+.section-2gLsgF {
+    font-weight: 700;
+    background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
     border: 1px solid #00000065;
 }
 
