@@ -509,6 +509,17 @@
     text-shadow: 2px 2px 2px #00000000;
 }
 
+/* Scroll Bar */
+.theme-dark {
+--scrollbar-auto-thumb: #00000060;
+--scrollbar-auto-track: #2e333800;
+}
+
+/* Square */
+.childWrapper-anI2G9, .wrapper-1BJsBx {
+    border-radius: 0 !important;
+}
+
 /* etc */
 .children-19S4PO:after {
     display: none;
@@ -526,16 +537,5 @@
     font-weight: 700;
     color: black;
     text-shadow: 2px 2px 2px #00000000;
-}
-
-/* Square */
-.childWrapper-anI2G9, .wrapper-1BJsBx {
-    border-radius: 0 !important;
-}
-
-/* Scroll Bar */
-.theme-dark {
---scrollbar-auto-thumb: #00000060;
---scrollbar-auto-track: #2e333800;
 }
 
