@@ -16,9 +16,9 @@
 }
 
 /* Sidebar */
-.members-1998pB, .members-1998pB>div {
+.members-1998pB, .members-1998pB>div, .hiddenMembers-2dcs_q, .membersWrap-2h-GB4 {
     background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
-    border: 1px solid #00000065;
+    border: 1px solid #00000000;
 }
 
 /* Chat */
@@ -430,6 +430,13 @@
     left: 15px;
 }
 
+/* Reply Media icon */
+.repliedTextContentIcon-1ivTae {
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+    border-radius: 3px;
+}
+
 /* Markup */
 .markup-2BOw-j code {
     background: linear-gradient(rgb(31, 31, 34), rgb(56, 58, 65)) !important;
@@ -475,4 +482,15 @@
 .theme-dark .footer-1FPmkC   {
     background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61)) !important;
     border: 1px solid #00000065;
+}
+
+
+/* Reactions */
+.reaction-1hd86g {
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+}
+.reaction-1hd86g.reactionMe-wv5HKu {
+    background: linear-gradient(rgb(55, 68, 94), rgb(0, 48, 145)) !important;
+    border: 1px solid #000000;
 }
