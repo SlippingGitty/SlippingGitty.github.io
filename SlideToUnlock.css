@@ -456,3 +456,11 @@
     background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
     border: 1px solid #00000065;
 }
+.navButtonActive-1MkytQ:hover, .navButtonActive-1MkytQ{
+    border-radius: 3px;
+    padding: 3px 5px 1.5px;
+    font-weight: 700;
+    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    border: 1px solid #000000;
+    color: rgb(0, 0, 0) !important;
+}
