@@ -453,12 +453,18 @@
     background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
     border-radius: 3px;
 }
-
 .css-1kj8ui-container {
     background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
     border-radius: 3px;
     border: .2px solid #000000;
 }
+.emptyResultsWrap-G931-Q  {
+      background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+}
+.scroller-3GIiMh {
+    padding: 0px 0x 0px;
+}
+
 
 /*
 ///////////////////
