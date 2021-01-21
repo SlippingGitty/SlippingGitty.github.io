@@ -422,6 +422,20 @@
     border: 1px solid #000000;
     color: rgb(255, 255, 255) !important;
 }
+.item-26Dhrx[aria-checked=true] {
+    border-radius: 3px;
+    padding: 3px 5px 2px;
+    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    color: rgb(0, 0, 0) !important;
+    border-radius: 3px;
+    border: .2px solid #000000;
+}
+.item-26Dhrx {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    color: var(--interactive-normal);
+    border-radius: 3px;
+    border: .2px solid #000000;
+}
 .lookOutlined-3sRXeN.colorRed-1TFJan {
     margin-right: 16px;
     border-radius: 3px;
@@ -487,6 +501,52 @@
 .theme-dark .footer-1FPmkC   {
     background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61)) !important;
     border: 1px solid #00000065;
+}
+
+/*
+//////////////////////
+///POWERCORD SETTINGS
+//////////////////////
+*/
+
+/* Manage tabs */
+.powercord-entities-manage-tabs {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: .2px solid #000000;
+}
+
+/* Powercord account */
+.powercord-account {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: .2px solid #000000;
+}
+
+/* Theme manager beta teaser */
+.developerPortalCtaWrapper-2XNafh {
+
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: .2px solid #000000;
+}
+
+/* Powercord products */
+.powercord-product {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: .2px solid #000000;
+}
+
+/* Powercord search */
+.powercord-entities-manage-search input {
+    background: linear-gradient(rgb(28, 27, 31), rgb(39, 40, 41)) !important;
+    border: .2px solid #000000;
+}
+
+/* Dotted Menu button */
+.powercord-entities-manage-header svg {
+    border-radius: 3px;
+    padding: 3px 5px 2px;
+    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    color: rgb(0, 0, 0) !important;
+    box-shadow: 2px 2px 2px #00000036 !important;
 }
 
 /*
