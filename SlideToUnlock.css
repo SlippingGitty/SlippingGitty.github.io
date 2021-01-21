@@ -436,3 +436,23 @@
     background: linear-gradient(rgb(31, 31, 34), rgb(56, 58, 65)) !important;
     border: 1px solid var(--background-tertiary);
 }
+
+/* Emoji Selector */
+.list-6NCENv, .list-donH_Z, .header-ywPcAE, .inspector-3LQtX9 {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: 1px solid #00000065;
+}
+.wrapper-1-Fsb8 {
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+    border-radius: 4px;
+    border-bottom: 3px;
+}
+.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+}
+.unicodeShortcut-15J8Ck {
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+}
