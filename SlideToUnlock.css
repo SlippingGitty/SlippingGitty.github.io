@@ -464,3 +464,15 @@
     border: 1px solid #000000;
     color: rgb(0, 0, 0) !important;
 }
+
+/* Image uploading preview */
+.theme-dark .uploadModal-2ifh8j, .uploadModal-2ifh8j, .footer-3mqk7D.hasSpoilers-1IRtQC, .autocompleteInner-zh20B_  {
+    background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61)) !important;
+    border: 1px solid #00000065;
+}
+
+/* Invite friends footer */
+.theme-dark .footer-1FPmkC   {
+    background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61)) !important;
+    border: 1px solid #00000065;
+}
