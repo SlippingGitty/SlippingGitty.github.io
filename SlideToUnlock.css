@@ -662,6 +662,24 @@
     box-shadow: 2px 2px 2px #00000036 !important;
 }
 
+/ * Pins */
+.header-ykumB  {
+    border-radius: 3px;
+    border-width: 1px;
+    background-color: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+}
+.messagesPopout-24nkyi {
+    border-radius: 3px;
+    border-width: 1px;
+    border: 1px solid #00000065;
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+}
+.messageGroupWrapper-o-Zw7G .messageGroupCozy-2iY6cT {
+    border-radius: 3px;
+    border-width: 1px;
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+}
+
 /*
 /////////////////////
 ///TINY FIXATIONS
