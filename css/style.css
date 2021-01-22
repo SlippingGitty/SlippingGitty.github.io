@@ -1,0 +1,18 @@
+body {
+	background-color: #000;
+	font-family: roboto;
+	color: #F706CF;
+}
+
+#title {
+	text-align: center;
+	color: #D40078;
+}
+
+#desc {
+	text-align: center;
+}
+
+#hatsune {
+	text-align: center;
+}
