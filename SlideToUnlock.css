@@ -285,6 +285,31 @@
     border: .2px solid #000000;
 }
 
+/* Audio embeds */
+.theme-dark .wrapperAudio-1jDe0Q {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: 1px solid #00000065;
+}
+
+/* File embed */
+.attachment-33OFj0 {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: 1px solid #00000065;
+      border-radius: 3px;
+}
+
+/* The listening party is over */
+.theme-dark .invite-18yqGF {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: 1px solid #00000065;
+}
+
+/* Invalid poop */
+.invalidPoop-pnUbq7 {
+    border: 1px solid #00000065;
+    border-radius: 3px;
+}
+
 /*
 //////////////
 ///BUTTONS
@@ -344,6 +369,16 @@
     background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;
     border: 1px solid #000000;
     color: rgb(0, 0, 0) !important;
+}
+
+/* View in Store */
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+    border-radius: 3px;
+    padding: 3px 5px 1.5px;
+    font-weight: 700;
+    background: linear-gradient(rgb(39, 214, 112), rgb(3, 61, 27)) !important;;
+    border: 1px solid #000000;
+    color: rgb(255, 255, 255) !important;
 }
 
 /* People/Buttons */
@@ -471,6 +506,36 @@
 ///FLYOUT MENUS
 ///////////////////
 */
+
+/* Inbox */
+.header-2-Imhb, .header-2-Imhb .tab-ck0077 {
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+     border-radius: 3px;
+}
+.messageContainer-gbhlwo {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: 1px solid #00000065;
+     border-radius: 3px;
+}
+.channelHeader-3Gd2xq {
+   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+    border-radius: 3px;
+}
+.scroller-2UmRce {
+    background: linear-gradient(rgb(22, 23, 24), rgb(38, 39, 41)) !important;
+    border: 1px solid #00000065;
+}
+.closeButton-1152MI, .secondary-dIudih {
+    margin-right: 16px;
+    border-radius: 50%;
+    background: linear-gradient(rgb(255, 0, 0), rgb(65, 0, 0)) !important;
+    border: 1px solid #000000;
+    color: rgb(255, 255, 255) !important;
+}
+
+
 
 /* DM Menu */
 .focusLock-Ns3yie, .root-1gCeng {
