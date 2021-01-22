@@ -535,7 +535,27 @@
     color: rgb(255, 255, 255) !important;
 }
 
-
+/* User info */
+.theme-dark .footer-1fjuF6 {
+    font-weight: 700;
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+}
+.theme-dark .body-3iLsc4 {
+    font-weight: 700;
+    background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) !important;
+    border: 1px solid #00000065;
+}
+.inputDefault-_djjkz {
+    padding: 10px;
+    height: 40px;
+    margin-top: 17px;
+    background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) !important;
+    border: 1px solid #00000065;
+}
+.headerPlaying-j0WQBV,  .headerTop-3C2Zn0{
+    background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) !important;
+    border: 1px solid #00000065;
+}
 
 /* DM Menu */
 .focusLock-Ns3yie, .root-1gCeng {
