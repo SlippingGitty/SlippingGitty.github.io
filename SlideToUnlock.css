@@ -610,10 +610,36 @@
     border: 1px solid #00000065;
 }
 
-/* Invite friends footer */
+/* Invite friends */
 .theme-dark .footer-1FPmkC   {
     background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61)) !important;
     border: 1px solid #00000065;
+}
+.lookOutlined-3sRXeN.colorGreen-29iAKY {
+    border-radius: 3px;
+    border-width: 1px;
+    border: 1px solid #00000065;
+	background: linear-gradient(rgb(224, 224, 224), rgb(149, 151, 155)) !important;
+    color: black;
+	font-weight: 700;
+}
+
+/ * Pins */
+.header-ykumB  {
+    border-radius: 3px;
+    border-width: 1px;
+    background-color: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+}
+.messagesPopout-24nkyi {
+    border-radius: 3px;
+    border-width: 1px;
+    border: 1px solid #00000065;
+    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+}
+.messageGroupWrapper-o-Zw7G .messageGroupCozy-2iY6cT {
+    border-radius: 3px;
+    border-width: 1px;
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
 }
 
 /*
@@ -662,23 +688,6 @@
     box-shadow: 2px 2px 2px #00000036 !important;
 }
 
-/ * Pins */
-.header-ykumB  {
-    border-radius: 3px;
-    border-width: 1px;
-    background-color: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
-}
-.messagesPopout-24nkyi {
-    border-radius: 3px;
-    border-width: 1px;
-    border: 1px solid #00000065;
-    background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
-}
-.messageGroupWrapper-o-Zw7G .messageGroupCozy-2iY6cT {
-    border-radius: 3px;
-    border-width: 1px;
-    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
-}
 
 /*
 /////////////////////
