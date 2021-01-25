@@ -764,7 +764,7 @@
 
 /* Home */
 .vz-dashboard-home-cta-background, .vz-dashboard-home-cta-background, .vz-dashboard-home-cta-overlay-background {
-    background-image: url("https://cdn.hipwallpaper.com/i/26/19/qswucm.jpg"), url("paper.gif");
+    background-image: url("https://cdn.hipwallpaper.com/i/26/19/qswucm.jpg");
     box-shadow: 5px 5px 5px #00000036 !important;
     border: 1px solid #000000; 
 }
