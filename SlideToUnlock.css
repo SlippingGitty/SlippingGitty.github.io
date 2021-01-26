@@ -95,6 +95,13 @@
     background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
     border: 1px solid #00000065;
 }
+.item-2hkk8m {
+  width: 5px;
+  border-radius: 0%;
+  left: 5px;
+  border: 1px solid #000000;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
+}
 
 /* Server Folders */
 .closedFolderIconWrapper-15K9MK {
