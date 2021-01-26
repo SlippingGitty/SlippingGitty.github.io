@@ -686,7 +686,6 @@
     box-shadow: 12px 12px 12px black;
 }
 .title-jXR8lp, .colorHeaderSecondary-3Sp3Ft {
-    text-shadow: 3px 3px 3px black;
     font-family: Helvetica, sans-serif !important; 
 }
 /* Login text feild */
@@ -829,6 +828,7 @@
 /* Force Font Helvetica*/
 * { 
     font-family: Helvetica, sans-serif !important; 
+    text-rendering: optimizeLegibility;
     text-shadow: 2px 2px 2px #00000052;
     text-transform: none;
 }
