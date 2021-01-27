@@ -25,6 +25,32 @@
 }
 
 /*
+/////////////////////////
+////USER MODE BANNERS
+/////////////////////////
+*/
+
+/* Preview mode */
+.notice-2X5hT5 {
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
+  background-color: #4e5d94;
+}
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+  background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
+  border-color: rgba(0, 0, 0, 0.363);
+}
+
+/* Streamer Mode */
+.colorStreamerMode-2SJAUN {
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,hsl(305, 31%, 44%) 50%,rgb(197, 112, 179) 100%); 
+  background-color: #924e94;
+}
+.theme-dark .button-2DhvE9, .theme-light .button-2DhvE9 {
+  background: linear-gradient(to bottom, rgb(222, 233, 213) 0%,rgb(196, 25, 34) 50%,rgb(227, 145, 163) 100%); 
+  border-color: rgba(0, 0, 0, 0.363);
+}
+
+/*
 //////////////
 //SIDEBARS
 //////////////
@@ -395,7 +421,7 @@ display: none;
   border-radius: 3px;
   padding: 3px 5px 1.5px;
   font-weight: 700;
-   background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
+  background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
   border: 1px solid #000000;
   color: rgb(255, 255, 255) !important;
 }
@@ -585,10 +611,8 @@ display: none;
   border: 1px solid #00000065;
 }
 .inputDefault-_djjkz {
-  padding: 10px;
-  height: 40px;
-  margin-top: 17px;
-  background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) !important;
+  color:grey;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
   border: 1px solid #00000065;
 }
 .headerPlaying-j0WQBV,  .headerTop-3C2Zn0{
@@ -688,6 +712,53 @@ font-weight: 700;
 }
 
 /*
+////////////////////////
+////DISCOVER (ALPHA)
+////////////////////////
+*/
+.sidebar-2K8pFh {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+}
+.theme-dark .card-3DjzTQ {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+  border: 1px solid #0000007c;
+  border-radius: 3px;
+}
+.scroller-1d5FgU {
+  background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61)) !important;
+  border: 1px solid #0000007c;
+}
+.headerContentWrapper-2u32yq {
+  background-image: url("https://illaddanimagelater.png"); /* image will be added later */
+  border: 1px solid #0000007c;
+  border-radius: 3px;
+}
+.search-1iTphC, .searchBox-2_mAlO, .searchBoxInput-K6mkng {
+  background-color: #fff0;
+}
+.optionContainer-15srkc {
+  background: linear-gradient(rgb(72, 73, 75), rgb(17, 18, 19)) !important;
+  border: 1px solid #0000007c;
+  border-radius: 3px;
+}
+
+/*
+////////////////////////////////////////////////////////////////////////////////////////////
+////TEMP HOT FIX FOR SERVER CREATION TOOL THAT WILL BE REMOVED WITH DISCORD GETS IT TOGETHER
+////////////////////////////////////////////////////////////////////////////////////////////
+*/
+.childWrapper-anI2G9, .wrapper-1BJsBx {
+  box-shadow: 2px 2px 2px black;
+}
+.footer-2gL1pp, .container-UC8Ug1 {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+}
+.footerTitle-2CYZch, .subtitle-Nw1LLR, .title-3w8xhj, .colorHeaderSecondary-3Sp3Ft, .text-1FOLJS, .title-LqAd9K, .closeButton-_onk93 {
+  color: white;
+  text-shadow: 2px 2px 2px #00000000;
+}
+
+/*
 ///////////
 ///LOGIN
 ///////////
@@ -713,16 +784,13 @@ font-weight: 700;
   font-family: Helvetica, sans-serif !important; 
 }
 /* Login text feild */
-.inputField-4g7rSQ, .inputDefault-_djjkz {
+.inputField-4g7rSQ {
   color:grey;
-  background: white;
-  border-radius: 3px;
-  border: 1px solid rgba(0,0,0,0);
   font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
-  box-shadow: 5px 5px 5px black;
 }
 .inputField-4g7rSQ:hover, .inputDefault-_djjkz:hover {
   box-shadow: 0 0 2px 3px #4189c3;
+  background-color: white;
 }
 
 
@@ -898,3 +966,4 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
   color: black;
   text-shadow: 2px 2px 2px #00000000;
 }
+
