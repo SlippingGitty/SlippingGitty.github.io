@@ -87,20 +87,6 @@ background: transparent;
   box-shadow: 2px 2px 2px #00000036 !important;
 }
 
-/* Channel Cats ---- enable by fixing name */
-.mainContent-2h -GEV:before {
-  font-weight: 700;
-  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
-  border: 1px solid #00000065;
-  left: 8px;
-  }
-.icon- 2yIBmh {
-   display: none;
-}
-.containerDefault-3tr_sE, .containerDragAfter-Zk9oyx, .containerDragBefore-1YqewQ, .containerUserOver-98-yc7 {
-  margin-top: -17px;
-}
-
 /* Unread Bartender */
 .unreadMentionsIndicatorBottom-BXS58x .unreadMentionsBar-1VrBNe:before {
   bottom: -8px;
