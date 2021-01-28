@@ -127,7 +127,6 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
 
 /* Server Folders */
 .closedFolderIconWrapper-15K9MK {
-
   border-radius: 1px;
 }
 .childWrapper-anI2G9, .wrapper-1BJsBx {
@@ -653,10 +652,8 @@ display: none;
   border: 1px solid #00000065;
 }
 .wrapper-1-Fsb8 {
-  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
-  border: 1px solid #00000065;
-  border-radius: 4px;
-  border-bottom: 3px;
+    background: linear-gradient(rgba(72, 73, 75, 0), rgba(38, 39, 41, 0)) !important;
+    border: 1px solid #00000000;
 }
 .categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
