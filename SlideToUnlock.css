@@ -288,12 +288,6 @@ display: none;
   left: 15px;
 }
 
-/* Messages failed to load Bartender */
-.barButtonMain-3K-jeJ, .barButtonAlt-mYL1lj, .barButtonBase-2uLO1z {
-    background: linear-gradient(to bottom, rgb(222, 233, 213) 0%,rgb(196, 25, 34) 50%,rgb(227, 145, 163) 100%); 
-    border-color: rgba(0, 0, 0, 0.363);
-}
-
 /* Message options */
 .scroller-3BxosC {
   border-radius: 3px;
