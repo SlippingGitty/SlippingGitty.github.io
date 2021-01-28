@@ -147,7 +147,7 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
   background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
 }
 .nowPlayingScroller-2XrVUt {
-  background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+    background: transparent;
 }
 .nowPlayingColumn-2sl4cE {
   background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
