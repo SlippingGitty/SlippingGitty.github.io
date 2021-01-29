@@ -257,3 +257,8 @@ div.contents-18-Yxp {
 .section-2gLsgF {
 	background-color: #292841;
 }
+
+/* Removes that stupid rounded border on the server name */
+.platform-win .sidebar-2K8pFh {
+    border-radius: 0px 0px 0px;
+}
