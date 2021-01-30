@@ -274,14 +274,14 @@ div.contents-18-Yxp {
   z-index: 1;
   height:1000px;
 }
-
-/* Hide channel name */
 .container-1r6BKw.themed-ANHk51 {
   z-index:1;
 }
+
+/* Make channel topic smaller */
 .topic-TCb_qw.expandable-9fI_e3 {
-		color: rgba(0, 0, 0, 0);
+    margin-right: 400px;
 }
 .divider-3FBTu8 {
-  		display: none;
+  	display: none;
 }
