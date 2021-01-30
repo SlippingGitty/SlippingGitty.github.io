@@ -262,3 +262,27 @@ div.contents-18-Yxp {
 .platform-win .sidebar-2K8pFh {
     border-radius: 0px 0px 0px;
 }
+
+
+/* Extend member sidebar into its own area - Pavol */
+.toolbar-1t6TWx {
+  position:relative;
+  right:245px;
+}
+.membersWrap-2h-GB4{
+  position:relative;
+  bottom:48px;
+  z-index: 1;
+  height:1000px;
+}
+
+/* Hide channel name */
+.container-1r6BKw.themed-ANHk51 {
+  z-index:1;
+}
+.topic-TCb_qw.expandable-9fI_e3 {
+		color: rgba(0, 0, 0, 0);
+}
+.divider-3FBTu8 {
+  		display: none;
+}
