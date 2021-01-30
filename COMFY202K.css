@@ -199,11 +199,6 @@ svg.addButtonIcon-2CbG1X {
     color: #BDBAEB;
 }
 
-/* Typing Chat area thing */
-.theme-dark {
-    --channeltextarea-background: #423F71;
-}
-
 /* Channel names */
 .emptyChannelIcon-cc932w {
 	background-color: #1C1B29;
@@ -284,4 +279,57 @@ div.contents-18-Yxp {
 }
 .divider-3FBTu8 {
   	display: none;
+}
+
+/* Message Text Box Thing */
+.scrollableContainer-2NUZem {
+    background-color: #312F51;
+}
+.buttonWrapper-1ZmCpA {
+    color: #BDBAEB;
+    background-color: #423F71;
+    height: 44px;
+    width: 44px;
+    border-radius: 50%;
+}
+.icon-3D60ES {
+    margin-top: 10px;
+}
+.textArea-12jD-V {
+    border-radius: 20px;
+    padding: 6px 10px 5px;
+    background-color: #423F71;
+}
+.fontSize16Padding-3Wk7zP{
+    padding-bottom: 11px;
+    padding-top: 6px;
+    padding-left: 11px;
+}
+button[aria-label="Send a gift"] {
+    display: none;
+ }
+    
+ div.contents-18-Yxp {
+    color: #6ADBC6;
+    font-weight: 100;
+}
+g[Attributes Style] {
+    fill: none;
+    fill-rule: evenodd;
+}
+.attachButton-2WznTc {
+    height: 44px;
+    padding: 10px 16px;
+    top: 0;
+    color: #BDBAEB;
+    background-color: #423F71;
+    height: 44px;
+    width: 44px;
+    border-radius: 50%;
+}
+.attachWrapper-2TRKBi {
+    padding-right: 11px;
+}
+.attachButtonPlus-jWVFah {
+    fill: #6ADBC6;
 }
