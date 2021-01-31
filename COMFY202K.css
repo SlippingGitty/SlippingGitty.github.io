@@ -345,3 +345,23 @@ g[Attributes Style] {
     background-color: #312F51;
     height: 48px;
 }
+
+/* User flyout */
+
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: #423F71;
+}
+
+.headerTop-3C2Zn0 {
+	background-color: #312F51;
+}
+
+/* Media upload flyout */
+
+.uploadModal-2ifh8j .inner-3nWsbo, .theme-dark .uploadModal-2ifh8j  {
+	background-color: #312F51;
+}
+
+.uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
+    background-color: #423F71;
+}
