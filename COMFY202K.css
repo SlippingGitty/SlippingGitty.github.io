@@ -366,6 +366,11 @@ g[Attributes Style] {
     background-color: #423F71;
 }
 
+/* Select Friends Flyout*/
+.header-1TKi98, .footer-1eyGBa, .noResults-ZTbl5V, .scroller-hUf6zQ  {
+	background-color: #312F51;
+}
+
 /* Buttons */
 .lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-1Gx00P.colorGrey-2DXtkV  {
     background-color: #423F71;
