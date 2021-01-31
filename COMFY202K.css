@@ -187,6 +187,11 @@ div.contents-18-Yxp {
 	background-color: #423F71;
   border-radius: 50px;
 }
+/* Hovered channel */
+.content-1x5b-n:hover {
+    background-color: transparent;
+    border-radius: 50px;
+}
 
 /* SVG icons */
 .clickable-3rdHwn .icon-22AiRD {
@@ -234,6 +239,7 @@ div.contents-18-Yxp {
 		color: #6ADBC6;
     background-color: var(--background-primary);
 }
+
 /* Channel Bar */
 .container-1r6BKw.themed-ANHk51 {
 	box-shadow: 1px 1px 1px #2B2946;
