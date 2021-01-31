@@ -394,3 +394,8 @@ g[Attributes Style] {
 .container-3auIfb  {
     background-color: #423F71 !important;
 }
+
+/* Set a custom status menu */
+.theme-dark .footer-2gL1pp, .content-1LAB8Z  {
+	background-color: #312F51;
+}
