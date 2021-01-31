@@ -259,7 +259,19 @@ div.contents-18-Yxp {
 
 
 /* Extend member sidebar into its own area - Pavol */
-
+.toolbar-1t6TWx {
+  position:relative;
+  right:245px;
+}
+.membersWrap-2h-GB4{
+  position:relative;
+  bottom:48px;
+  z-index: 1;
+  height:1000px;
+}
+.container-1r6BKw.themed-ANHk51 {
+  z-index:1;
+}
 
 /* Make channel topic smaller */
 .topic-TCb_qw.expandable-9fI_e3 {
