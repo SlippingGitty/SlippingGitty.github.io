@@ -365,3 +365,22 @@ g[Attributes Style] {
 .uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
     background-color: #423F71;
 }
+
+/* Buttons */
+.lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-1Gx00P.colorGrey-2DXtkV  {
+    background-color: #423F71;
+}
+
+.lookFilled-1Gx00P.colorRed-1TFJan {
+    background-color: #690000;
+}
+
+.lookOutlined-3sRXeN.colorRed-1TFJan {
+    border-color: #690000;
+}
+.lookFilled-1Gx00P.colorYellow-2JqYwt {
+    background-color: #825100;
+}
+.container-3auIfb  {
+    background-color: #423F71 !important;
+}
