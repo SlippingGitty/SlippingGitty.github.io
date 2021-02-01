@@ -304,6 +304,9 @@ div.contents-18-Yxp {
 .icon-3D60ES {
     margin-top: 10px;
 }
+.horizontal-1ae9ci>.flexChild-faoVW3:last-child {
+      margin-top: -10px;
+}
 .textArea-12jD-V {
     border-radius: 20px;
     padding: 6px 10px 5px;
@@ -315,7 +318,7 @@ div.contents-18-Yxp {
     padding-left: 11px;
 }
 .stickerIcon-3TP7EM {
-		padding-bottom: 11px;
+    padding-bottom: 11px;
     padding-top: 11px;
     padding-left: 1px;
 }
