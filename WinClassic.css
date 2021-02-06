@@ -1066,7 +1066,16 @@ body,
 ///ADDITIONS
 //////////////////////
 */
-
+/* Dev Badge */
+.avatar-1BDn8e[src*="359175647257690113"] + h2 .username-1A8OIy::after {
+  content: '   •    WinClassic Fork Dev   •';
+  font-size: 0.75rem;
+  line-height: 1.375rem;
+  color: var(--text-muted);
+  vertical-align: baseline;
+  margin-left: .25rem;
+} 
+	
 /* Text Box */
 
 .textAreaSlate-1ZzRVj {
