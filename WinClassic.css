@@ -553,11 +553,16 @@ body,
 	border-top:1px solid #fff;
 }
 .modeUnread-1qO3K1 .name-23GUGE:hover {
-color: white;
+	color: white;
+	font-weight: 700;
+	font-style: italic;
 }
-.modeSelected-346R90 .name-23GUGE {
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n {
     background-color: var(--background-modifier-selected);
-  color:white
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #848484;
+    border-left: 1px solid #848484;;
 }
 .actionIcon-PgcMM2 {
   color:white
