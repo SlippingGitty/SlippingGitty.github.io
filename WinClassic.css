@@ -1396,8 +1396,29 @@ color: white;
     border-top: 1px solid #fff;
     border-left: 1px solid #fff;
 }
+
 /* Buttons */
 .button-F9qN4n, .button-1ZiXG9  {
+   color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+.size32-T2BHRe {
+     color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+
+/* Headers */
+.header-ykumBX, .header-1TKi98 {
    color: #000;
     background: #d4d0c8;
     background-color: #d4d0c8;
