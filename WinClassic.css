@@ -547,6 +547,10 @@ body,
   background-color: #d4d0c8;
   background: #d4d0c8;
 }
+.scrollableContainer-2NUZem {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
 
 /* Channel Info */
 .theme-light .children-19S4PO:after {
