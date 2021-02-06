@@ -514,6 +514,14 @@ body,
   vertical-align: baseline;
   margin-left: .25rem;
 } 
+.avatar-1BDn8e[src*="597072695875600385"] + h2 .username-1A8OIy::after {
+  content: '   •    WinClassic Fork Contributor   •';
+  font-size: 0.75rem;
+  line-height: 1.375rem;
+  color: var(--text-muted);
+  vertical-align: baseline;
+  margin-left: .25rem;
+} 
 
 /* Text Box */
 .textAreaSlate-1ZzRVj {
