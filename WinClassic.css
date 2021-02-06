@@ -551,6 +551,11 @@ body,
     overflow-x: hidden;
     overflow-y: hidden;
 }
+.emojiButtonHovered-1rWNal, .emojiButtonNormal-TdumYh  {
+   padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 0px;
+}
 
 /* Channel Info */
 .theme-light .children-19S4PO:after {
