@@ -708,49 +708,7 @@ color: white;
 }
 
 
-/* Chat */
-.scrollerInner-2YIMLh {
-	color: #000;
-	margin: 0;
-	border-bottom:1px solid #fff;
-	border-top:1px solid #848484;
-}
 
-.attachment-33OFj0, .markup-2BOw-j code, .grid-1nZz7S {
-    color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
-    border-bottom: 1px solid #848484;
-    border-right: 1px solid #848484;
-    border-top: 1px solid #fff;
-    border-left: 1px solid #fff;
-}
-.cancelButton-3hVEV6, .downloadButton-23tKQp {
-    color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
-    border-bottom: 1px solid #848484;
-    border-right: 1px solid #848484;
-    border-top: 1px solid #fff;
-    border-left: 1px solid #fff;
-}
-}
-
-.member-3-YXUe, .layout-2DM8Md:hover {
-	background-color: var(--background-secondary);
-	color: white;
-	margin: 0;
-	border-bottom:1px solid #848484;
-	border-top:1px solid #fff;
-}
-
-.selected-aXhQR6 .layout-2DM8Md  {
-  color: white
-}
-
-.activityText-yGKsKm:hover, .icon-15YQ1T:hover {
-  color: white;
-}
 
 /* Server name */
 .container-1taM1r {
@@ -864,7 +822,6 @@ color: white;
 	border-bottom:1px solid #fff;
 	border-top:1px solid #848484;
 }
-
 .attachment-33OFj0, .markup-2BOw-j code, .grid-1nZz7S {
     color: #000;
     background: #d4d0c8;
@@ -874,14 +831,20 @@ color: white;
     border-top: 1px solid #fff;
     border-left: 1px solid #fff;
 }
-.cancelButton-3hVEV6, .downloadButton-23tKQp {
-    color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
-    border-bottom: 1px solid #848484;
-    border-right: 1px solid #848484;
-    border-top: 1px solid #fff;
-    border-left: 1px solid #fff;
+.member-3-YXUe, .layout-2DM8Md:hover {
+	background-color: var(--background-secondary);
+	color: white;
+	margin: 0;
+	border-bottom:1px solid #848484;
+	border-top:1px solid #fff;
+}
+
+.selected-aXhQR6 .layout-2DM8Md  {
+  color: white
+}
+
+.activityText-yGKsKm:hover, .icon-15YQ1T:hover {
+  color: white;
 }
 
 /* Menus */
