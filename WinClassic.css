@@ -810,6 +810,9 @@ body *::-webkit-scrollbar {
 	  border-top: 1px solid #fff;
 	  border-left: 1px solid #fff;
   }
+.theme-light .checkbox-1ix_J3 {
+    display: none;
+}
   
   /* Headers */
   .header-ykumBX, .header-1TKi98 {
@@ -829,9 +832,41 @@ body *::-webkit-scrollbar {
   .sidebar-2K8pFh{
 	margin-left:8px;
   }
-  
-  
-  /* Settings */
+
+/* Uploading Files */
+.theme-light .checkbox-1ix_J3 {
+    display: none;
+}
+.theme-light .uploadModal-2ifh8j {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
+.uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
+  	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #fff;
+	  border-right: 1px solid #fff;
+	  border-top: 1px solid #848484;
+	  border-left: 1px solid #848484;
+}
+.emojiButtonHovered-1rWNal, .emojiButtonNormal-TdumYh {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+    margin-right: 8px;
+}
+
+/* Settings */
   .side-8zPYf6 .item-PXvHYJ {
 	 color: #000;
 	  background: #d4d0c8;
