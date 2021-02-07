@@ -632,47 +632,6 @@ color: white;
 	border-top:1px solid #fff;
 }
 
-/* Guilds bar */
-.guilds-1SWlCJ .scroller-2TZvBN {
-    background-color: var(--background-modifier-selected);
-}
-
-.circleIconButton-jET_ig, .childWrapper-anI2G9 {
-    color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
-    border-bottom: 1px solid #848484;
-    border-right: 1px solid #848484;
-    border-top: 1px solid #fff;
-    border-left: 1px solid #fff;
-}
-
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
-	background-color: #848484;
-	color: #000;
-	margin: 0;
-	border-bottom:1px solid #848484;
-	border-top:1px solid #fff;
-}
-
-.closedFolderIconWrapper-15K9MK, .expandedFolderBackground-2sPsd-, .expandedFolderIconWrapper-1xLaU-  {
-    color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
-    border-bottom: 1px solid #848484;
-    border-right: 1px solid #848484;
-    border-top: 1px solid #fff;
-    border-left: 1px solid #fff;
-}
-
-.childWrapper-anI2G9, .wrapper-1BJsBx {
-	background-color: var(--background-secondary);
-	color: #000;
-	margin: 0;
-	border-bottom:1px solid #848484;
-	border-top:1px solid #fff;
-}
-
 /* People List */
 .peopleList-3c4jOR {
 	background-color: var(--background-secondary);
@@ -708,8 +667,6 @@ color: white;
 }
 
 
-
-
 /* Server name */
 .container-1taM1r {
 	color: #000;
@@ -741,7 +698,7 @@ color: white;
 	border-top:1px solid #fff;
 }
 
-.closedFolderIconWrapper-15K9MK, .expandedFolderBackground-2sPsd-, .expandedFolderIconWrapper-1xLaU-  {
+.closedFolderIconWrapper-15K9MK, .expandedFolderIconWrapper-1xLaU-  {
     color: #000;
     background: #d4d0c8;
     background-color: #d4d0c8;
