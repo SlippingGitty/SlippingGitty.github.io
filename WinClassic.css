@@ -842,6 +842,17 @@ color: white;
 	border-top:1px solid #848484;
 }
 
+/* Footers */
+.footer-1kmXd4 {
+   color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+
 
 /* Chat */
 .scrollerInner-2YIMLh {
@@ -906,6 +917,13 @@ color: white;
     border-top: 1px solid #fff;
     border-left: 1px solid #fff;
 }
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
+    background-color: var(--background-modifier-selected);
+      border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
 
 /* Headers */
 .header-ykumBX, .header-1TKi98 {
@@ -966,5 +984,40 @@ color: white;
     border-right: 1px solid #fff;
     border-top: 1px solid #848484;
     border-left: 1px solid #848484;
+}
+
+/* Checkboxes - Slate Theme - Tropical */
+#app-mount .container-3auIfb .input-rwLH4i, #app-mount .container-3auIfb .input-3ITkQf, #app-mount .checkboxWrapper-SkhIWG .input-rwLH4i, #app-mount .checkboxWrapper-SkhIWG .input-3ITkQf {
+    margin: 0;
+    opacity: 1;
+    height: 14px !important;
+    width: 14px !important;
+    position: relative;
+    cursor: var(--cursor);
+    -webkit-appearance: checkbox;
+    appearance: checkbox;
+  box-shadow: inset -1px -1px #fff,inset 1px 1px grey,inset -2px -2px #dfdfdf,inset 2px 2px #0a0a0a;
+}
+#app-mount .container-3auIfb, #app-mount .checkboxWrapper-SkhIWG {
+    width: auto;
+    border-radius: 0;
+    background: transparent !important;
+    display: flex;
+    align-items: center;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    cursor: var(--cursor);
+}
+#app-mount .container-3auIfb .slider-TkfMQL, #app-mount .checkboxWrapper-SkhIWG .slider-TkfMQL {
+    display: none;
+}
+
+/* Powercord Settings */
+.powercord-entities-manage-tabs {
+    background-color: var(--background-modifier-selected);
+      border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
 }
 
