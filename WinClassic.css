@@ -932,6 +932,62 @@ body *::-webkit-scrollbar {
   #app-mount .container-3auIfb .slider-TkfMQL, #app-mount .checkboxWrapper-SkhIWG .slider-TkfMQL {
 	  display: none;
   }
+
+/* Emoji and Gif Menu */
+.inspector-3LQtX9 {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
+.unicodeShortcut-15J8Ck {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
+.inner-3ErfOT {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
+.theme-light .header-1TOWci {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
+.categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {
+  	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
+.list-donH_Z, .inner-2P4tQO, .theme-light .header-1TOWci  {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
   
   /* Powercord Settings */
   .powercord-entities-manage-tabs {
