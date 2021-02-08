@@ -988,6 +988,17 @@ body *::-webkit-scrollbar {
 	  border-top: 1px solid #fff;
 	  border-left: 1px solid #fff;
 }
+
+/* Voice Chat */
+.container-1giJp5 {
+	 color: #000;
+	  background: #d4d0c8;
+	  background-color: #d4d0c8;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
+}
   
   /* Powercord Settings */
   .powercord-entities-manage-tabs {
