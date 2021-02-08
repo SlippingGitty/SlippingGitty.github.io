@@ -1008,3 +1008,104 @@ body *::-webkit-scrollbar {
 	  border-top: 1px solid #fff;
 	  border-left: 1px solid #fff;
   }
+
+
+/* Vizality Settings */
+
+/* Home */
+.vz-dashboard-home-cta-background, .vz-dashboard-home-cta-background, .vz-dashboard-home-cta-overlay-background {
+    background-image: url("https://wallpapercave.com/wp/wp2807995.jpg");
+    box-shadow: 5px 5px 5px #00000036 !important;
+    border: 1px solid #000000; 
+  }
+  .vz-dashboard-home-cta-content-icon-wrapper {
+    color: #000;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  .vz-dashboard-home-cta-content-subtext, .vz-dashboard-home-cta-content-header {
+    color: black;
+    font-style: italic;
+  }
+  
+  /* Icons */
+  .vz-dashboard-home-features-icon-wrapper {
+    color: #000;
+    background-color: #d4d0c8 !important;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  .vz-dashboard-home-features-card {
+    color: #000;
+    background-color: #d4d0c8 !important;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  
+  /* Background */
+  .vz-dashboard-home-section-features, .vz-wave-divider-svg-path {
+    color: #000;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  .vz-dashboard-layout, .vz-dashboard-scroller {
+    color: #000;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  .vz-wave-divider-svg {
+    display: none;
+  }
+  
+  /* Sidebar */
+  .vz-dashboard-sidebar {
+    color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  
+  /* Sidebar Cat */
+  .vz-c-settings-category-title, .vz-c-settings-category-inner, .vz-addons-list-sticky-bar {
+    color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  
+  /* Buttons */
+  .topPill-30KHOu .item-PXvHYJ {
+    color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+  }
+  
+  /* Theme names */
+  .vz-addons-list[vz-display=compact] .vz-addon-card {
+    background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+    border: 1px solid #000000; 
+    border-radius: 3px;
+  }
