@@ -1,0 +1,78 @@
+@use "./src/import.scss";
+
+@import url('https://raw.githack.com/Snapperito/Settings-Icons/main/source.css');
+@import url("https://corellanstoma.github.io/Powercord/Removed/gif-nitro-chat.css");
+
+
+
+.theme-dark, 
+.theme-light, 
+:root {
+    --background-primary: #25294a !important;
+    --background-secondary: #202442 !important;
+    --background-secondary-alt: #2d325a !important;
+    --background-tertiary: #1b1f38 !important;
+    --background-accent: var(--background-secondary) !important;
+    --background-extra: #dbdff2;
+    --background-extra-alt:#2d325a;
+    --background-floating: var(--background-tertiary) !important;
+    --background-modifier-hover: rgba(255,255,255,0.01) !important;	
+    --background-modifier-active: rgba(255,255,255,0.03) !important;
+    --background-modifier-selected: rgba(255,255,255,0.04) !important;	
+    --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
+    --channeltextarea-background: var(--background-secondary) !important;
+    --focus-primary: rgba(0, 0, 0, 0.219) !important;
+    --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
+    --deprecated-card-editable-bg: rgba(0,0,0,0.1) !important;
+    --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
+    --activity-card-background: var(--background-primary) !important;
+    --channels-default: #9f9f9f !important;
+    --text-muted: #b6b6b6 !important;
+    --text-normal: #e8eaf8 !important;
+    --interactive-normal: #f1f3ff !important;
+    --interactive-hover: #c7ceff !important;
+    --interactive-active: var(--text-normal) !important;
+    --interactive-muted: #747474 !important;
+    --header-secondary: #c9c9c9 !important;
+    --toast-background: var(--background-primary) !important;
+    --toast-header: var(--background-tertiary) !important;
+    --toast-contents: var(--background-secondary) !important;
+    --toast-box-shadow: rgba(0, 0, 0, .2) !important;
+    --toast-border: var(--background-tertiary) !important;
+    --background-mentioned-hover: #383d6836 !important;
+    --background-mentioned:#383d685e;
+}
+
+html.light-dark::before {
+    content: "This theme is specifically for light mode, A dark theme will not be in development, If you dislike this color scheme, please find another theme, or modify this theme to your liking.";
+    font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: rgb(255, 0, 0);
+    background-color:var(--background-extra);
+    text-align: center;
+    position: absolute;
+    z-index: 10001;
+    height:50px;
+    top:1px;
+    right: 0;
+    left: 0;
+}
+
+:root {
+    --burple: var(--background-tertiary);
+    --scrollbar-thumb-dark: #f8f9fa00 !important;
+    --scrollbar-track-dark: --burple !important;
+  }
+  
+  
+  ::-webkit-scrollbar {
+      width: 10px;
+      border-radius: 25px;
+      background-color: transparent !important;
+  }
+  ::-webkit-scrollbar-thumb {
+      border-radius: 25px;
+      background-color: var(--burple) !important;
+  }
+  ::-webkit-scrollbar-track {
+      display: none;
+  }
