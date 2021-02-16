@@ -1109,3 +1109,11 @@ body *::-webkit-scrollbar {
     border: 1px solid #000000; 
     border-radius: 3px;
   }
+
+/* New Messages */
+.newMessagesBar-265mhP {
+	display: inline;
+	float: left;
+    background-color: #7289da00;
+    box-shadow: none;
+}
