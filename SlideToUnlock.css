@@ -431,6 +431,31 @@ display: none;
   border: 1px solid #000000;
 }
 
+/* Checkboxes - Slate Theme - Tropical */
+    #app-mount .container-3auIfb .input-rwLH4i, #app-mount .container-3auIfb .input-3ITkQf, #app-mount .checkboxWrapper-SkhIWG .input-rwLH4i, #app-mount .checkboxWrapper-SkhIWG .input-3ITkQf {
+        margin: 0;
+        opacity: 1;
+        height: 14px !important;
+        width: 14px !important;
+        position: relative;
+        cursor: var(--cursor);
+        -webkit-appearance: checkbox;
+        appearance: checkbox;
+    }
+    #app-mount .container-3auIfb, #app-mount .checkboxWrapper-SkhIWG {
+        width: auto;
+        border-radius: 0;
+        background: transparent !important;
+        display: flex;
+        align-items: center;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+        cursor: var(--cursor);
+    }
+    #app-mount .container-3auIfb .slider-TkfMQL, #app-mount .checkboxWrapper-SkhIWG .slider-TkfMQL {
+        display: none;
+}
+
 /*
 ////////////////
 ///SETTINGS
