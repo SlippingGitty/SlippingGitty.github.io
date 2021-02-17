@@ -190,15 +190,11 @@ body *::-webkit-scrollbar {
   }
   /* Border and colour of the scrollbar thumb  */
   ::-webkit-scrollbar-thumb {
-	  overflow: auto !important ;
-	  border-radius: 0px !important ;  /* 0px for box style */
-	  background-color: #d7d2cf !important;
-	  border-bottom:1px solid #848484;
-	  border-right:1px solid #848484;
-	  border-top:1px solid #fff;
-	  border-left:1px solid #fff;
-	  width: 16px;
+    background-color: #c5c4c0 !important;
+    border: none !important;
+    border-radius: 0px!important;
   }
+  
   /* Changes the background colour of the scroll bars and servers. */
   ::-webkit-scrollbar-track-piece, .guilds-wrapper {
 	  background-color: #c5c4c0 !important;
@@ -380,12 +376,6 @@ body *::-webkit-scrollbar {
 	  background-color: #fff;
   }
   
-  .typing-2GQL18 {
-	  height: 14px;
-	  top: -16px;
-	  padding: 0 4px;
-	left: .1px;
-  }
   .channelTextArea-rNsIhG {
 	  padding-top: 12px;
 	  margin-bottom: 13px;
@@ -505,24 +495,6 @@ body *::-webkit-scrollbar {
   //////////////////////
   */
   
-  /* Dev Badge */
-  .avatar-1BDn8e[src*="359175647257690113"] + h2 .username-1A8OIy::after {
-	content: '   •    WinClassic Fork Dev   •';
-	font-size: 0.75rem;
-	line-height: 1.375rem;
-	color: var(--text-muted);
-	vertical-align: baseline;
-	margin-left: .25rem;
-  } 
-  .avatar-1BDn8e[src*="597072695875600385"] + h2 .username-1A8OIy::after {
-	content: '   •    WinClassic Fork Contributor   •';
-	font-size: 0.75rem;
-	line-height: 1.375rem;
-	color: var(--text-muted);
-	vertical-align: baseline;
-	margin-left: .25rem;
-  } 
-  
   /* Text Box */
   .textAreaSlate-1ZzRVj {
 	  border-bottom:1px solid #3f3c5d;
@@ -564,10 +536,10 @@ body *::-webkit-scrollbar {
   
   /* Activity Panel */
   .activityPanel-28dQGo, .container-3baos1 {
-	  background: #d4d0c8;
-	  border-top:1px solid #000;
-		border-bottom:1px solid #3f3c5d;
-  }
+    background: #d4d0c8;
+    border-top: 1px solid #000;
+    border-bottom: none;
+}
   
   /* Channels */
   .content-1x5b-n {
@@ -619,7 +591,6 @@ body *::-webkit-scrollbar {
 	  color: #000;
 	  margin: 0;
 	  border-bottom:1px solid #848484;
-	  border-top:1px solid #fff;
   }
   
   /* Guilds bar */
@@ -829,9 +800,9 @@ body *::-webkit-scrollbar {
   .wrapper-1Rf91z{
 	width:82px;
   }
-  .sidebar-2K8pFh{
-	margin-left:8px;
-  }
+  .sidebar-2K8pFh {
+    margin-left: 11px;
+}
 
 /* Uploading Files */
 .theme-light .checkbox-1ix_J3 {
@@ -1116,4 +1087,25 @@ body *::-webkit-scrollbar {
 	float: left;
     background-color: #7289da00;
     box-shadow: none;
+}
+
+
+.typing-2GQL18 {
+    color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c800;
+    height: 14px;
+    top: -16px;
+    padding: 0px 15px;
+    left: .1px;
+}
+
+.base-gE7OpD .cooldownWrapper-3joyFc {
+    color: #000;
+    background: #d4d0c8;
+    background-color: #d4d0c8;
+    border-bottom: 1px solid #848484;
+    border-right: 1px solid #848484;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
 }
