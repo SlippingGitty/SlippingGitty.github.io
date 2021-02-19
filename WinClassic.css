@@ -574,7 +574,6 @@ body *::-webkit-scrollbar {
   /* Members */
   .member-3-YXUe, .layout-2DM8Md:hover {
 	  background-color: var(--background-secondary);
-	  color: white;
 	  margin: 0;
 	  border-bottom:1px solid #848484;
 	  border-top:1px solid #fff;
@@ -721,7 +720,6 @@ body *::-webkit-scrollbar {
   }
   .member-3-YXUe, .layout-2DM8Md:hover {
 	  background-color: var(--background-secondary);
-	  color: white;
 	  margin: 0;
 	  border-bottom:1px solid #848484;
 	  border-top:1px solid #fff;
