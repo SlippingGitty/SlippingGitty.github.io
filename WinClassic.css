@@ -1088,17 +1088,8 @@ body *::-webkit-scrollbar {
 }
 
 
+/* Typing and slow mode */
 .typing-2GQL18 {
-    color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c800;
-    height: 14px;
-    top: -16px;
-    padding: 0px 15px;
-    left: .1px;
-}
-
-.base-gE7OpD .cooldownWrapper-3joyFc {
     color: #000;
     background: #d4d0c8;
     background-color: #d4d0c8;
@@ -1106,4 +1097,8 @@ body *::-webkit-scrollbar {
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
     border-left: 1px solid #fff;
+    height: 14px;
+    top: -16px;
+    padding: 0px 15px;
+    left: .1px;
 }
