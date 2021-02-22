@@ -455,6 +455,9 @@ display: none;
     #app-mount .container-3auIfb .slider-TkfMQL, #app-mount .checkboxWrapper-SkhIWG .slider-TkfMQL {
         display: none;
 }
+.theme-dark .checkbox-1ix_J3 {
+  display:none;
+}
 
 /*
 ////////////////
