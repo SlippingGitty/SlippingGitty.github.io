@@ -1,7 +1,7 @@
 body {
 	background-color: black;
-	font-family: roboto;
-	color: #F706CF;
+	color: rgb(180, 79, 175);
+	font-family: monospace;
 	font-size: 16px;
 	margin: 2em auto;
 	max-width: 800px;
@@ -10,20 +10,27 @@ body {
 	text-align: justify;
 }
 
-#title {
-	text-align: center;
-	color: #D40078;
-}
-
 #desc {
 	text-align: center;
+	font-style: italic;
+	color: #ffffff;
 }
 
-#hatsune {
+#title {
+	text-align: center;
+	color: #ff0000;
+}
+
+#image {
 	text-align: center;
 	border-radius: 3px;
 }
 
- #links {
+#subtitle {
+	text-align: center;
+	color: #ffffff;
+}
 
+
+ #links {
  }
