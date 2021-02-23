@@ -86,10 +86,10 @@ body *::-webkit-scrollbar {
 	  --interactive-active: #060607;
 	  --interactive-muted: #a88985;
 	  --background-primary: #fff;
-	  --background-secondary: #d4d0c8;
+	  --background-secondary: #C0C0C0;
 	  --background-tertiary: #fff;
 	  --background-accent: #0a246a;
-	  --background-floating: #d4d0c8;
+	  --background-floating: #C0C0C0;
 	  --background-modifier-hover: #0a246a;
 	  --background-modifier-active: #0a246a;
 	  --background-modifier-selected: #0a246a;
@@ -102,7 +102,7 @@ body *::-webkit-scrollbar {
 	  --activity-card-background: #fff;
 	  --deprecated-panel-background: #ebedef;
 	  --deprecated-card-bg: #f8f9f9;
-	  --deprecated-card-editable-bg: #d4d0c8;
+	  --deprecated-card-editable-bg: #C0C0C0;
 	  --deprecated-store-bg: #f8f9f9;
 	  --deprecated-quickswitcher-input-background: #fff;
 	  --deprecated-quickswitcher-input-placeholder: rgba(79,84,92,0.3);
@@ -286,7 +286,7 @@ body *::-webkit-scrollbar {
   
   .winButton-iRh8-Z,
   .form-2fGMdU {
-	  background: #d4d0c8;
+	  background: #C0C0C0;
 	  color: #000;
   }
   
@@ -418,7 +418,7 @@ body *::-webkit-scrollbar {
   
   .activityPanel-28dQGo,
   .container-3baos1 {
-	  background: #d4d0c8;
+	  background: #C0C0C0;
 	  border-top:1px solid #fff;
   }
   
@@ -449,8 +449,8 @@ body *::-webkit-scrollbar {
   .cardPrimaryEditable-3KtE4g,
   .typing-2GQL18 {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom:1px solid #848484;
 	  border-right:1px solid #848484;
 	  border-top:1px solid #fff;
@@ -459,7 +459,7 @@ body *::-webkit-scrollbar {
   
   .container-1r6BKw.themed-ANHk51,
   .header-2o-2hj {
-	  background: #d4d0c8;
+	  background: #C0C0C0;
 	  border-bottom:1px solid #848484;
 	  border-right:1px solid #848484;
 	  border-left:1px solid #fff;
@@ -504,8 +504,8 @@ body *::-webkit-scrollbar {
   }
   .channelTextArea-rNsIhG {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom:1px solid #3f3c5d;
 	  border-right:1px solid #3f3c5d;
 	  border-top:1px solid #000;
@@ -516,8 +516,8 @@ body *::-webkit-scrollbar {
 	  border-right:1px solid #3f3c5d;
 	  border-top:1px solid #000;
 	  border-left:1px solid #dccec6;
-	background-color: #d4d0c8;
-	background: #d4d0c8;
+	background-color: #C0C0C0;
+	background: #C0C0C0;
   }
   .scrollableContainer-2NUZem {
 	  overflow-x: hidden;
@@ -536,7 +536,7 @@ body *::-webkit-scrollbar {
   
   /* Activity Panel */
   .activityPanel-28dQGo, .container-3baos1 {
-    background: #d4d0c8;
+    background: #C0C0C0;
     border-top: 1px solid #000;
     border-bottom: none;
 }
@@ -599,8 +599,8 @@ body *::-webkit-scrollbar {
   
   .circleIconButton-jET_ig, .childWrapper-anI2G9 {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -617,8 +617,8 @@ body *::-webkit-scrollbar {
   
   .closedFolderIconWrapper-15K9MK, .expandedFolderIconWrapper-1xLaU-  {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -634,8 +634,8 @@ body *::-webkit-scrollbar {
   }
   .item-2hkk8m {
 	 color: #000;
-	 background: #d4d0c8;
-	 background-color: #d4d0c8;
+	 background: #C0C0C0;
+	 background-color: #C0C0C0;
 	 border-bottom: 1px solid #848484;
 	 border-right: 1px solid #848484;
 	 border-top: 1px solid #fff;
@@ -653,8 +653,8 @@ body *::-webkit-scrollbar {
   }
   .itemCard-v9viV7:first-of-type {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -662,8 +662,8 @@ body *::-webkit-scrollbar {
   }
   .itemCard-v9viV7 {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -678,8 +678,8 @@ body *::-webkit-scrollbar {
   }
 .actions-1SQwjn {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -693,8 +693,8 @@ body *::-webkit-scrollbar {
   /* Footers */
   .footer-1kmXd4 {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -711,8 +711,8 @@ body *::-webkit-scrollbar {
   }
   .attachment-33OFj0, .markup-2BOw-j code, .grid-1nZz7S {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -736,8 +736,8 @@ body *::-webkit-scrollbar {
   /* Menus */
   .menu-3sdvDG, .channel-2QD9_O  {
 	  color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -745,8 +745,8 @@ body *::-webkit-scrollbar {
   }
   .colorDefault-2K3EoJ {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -756,8 +756,8 @@ body *::-webkit-scrollbar {
   /* Buttons */
   .button-F9qN4n, .button-1ZiXG9  {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -765,8 +765,8 @@ body *::-webkit-scrollbar {
   }
   .size32-T2BHRe {
 	   color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -786,20 +786,26 @@ body *::-webkit-scrollbar {
   /* Headers */
   .header-ykumBX, .header-1TKi98 {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
 	  border-left: 1px solid #fff;
   }
   
-  /* Makes Guilds Bar Wider - Pavol */ 
+  /* Guilds Bar */ 
   .wrapper-1Rf91z{
-	width:82px;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
   }
   .sidebar-2K8pFh {
-    margin-left: 11px;
+	  border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff;
 }
 
 /* Uploading Files */
@@ -808,8 +814,8 @@ body *::-webkit-scrollbar {
 }
 .theme-light .uploadModal-2ifh8j {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -817,8 +823,8 @@ body *::-webkit-scrollbar {
 }
 .uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
   	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #fff;
 	  border-right: 1px solid #fff;
 	  border-top: 1px solid #848484;
@@ -826,8 +832,8 @@ body *::-webkit-scrollbar {
 }
 .emojiButtonHovered-1rWNal, .emojiButtonNormal-TdumYh {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -838,8 +844,8 @@ body *::-webkit-scrollbar {
 /* Settings */
   .side-8zPYf6 .item-PXvHYJ {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -850,8 +856,8 @@ body *::-webkit-scrollbar {
   }
   .theme-light .closeButton-1tv5uR {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -859,8 +865,8 @@ body *::-webkit-scrollbar {
   }
   .background-1QDuV2 {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -868,8 +874,8 @@ body *::-webkit-scrollbar {
   }
   .fieldList-21DyL8 {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #fff;
 	  border-right: 1px solid #fff;
 	  border-top: 1px solid #848484;
@@ -905,8 +911,8 @@ body *::-webkit-scrollbar {
 /* Emoji and Gif Menu */
 .inspector-3LQtX9 {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -914,8 +920,8 @@ body *::-webkit-scrollbar {
 }
 .unicodeShortcut-15J8Ck {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -923,8 +929,8 @@ body *::-webkit-scrollbar {
 }
 .inner-3ErfOT {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -932,8 +938,8 @@ body *::-webkit-scrollbar {
 }
 .theme-light .header-1TOWci {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -941,8 +947,8 @@ body *::-webkit-scrollbar {
 }
 .categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover {
   	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -950,8 +956,8 @@ body *::-webkit-scrollbar {
 }
 .list-donH_Z, .inner-2P4tQO, .theme-light .header-1TOWci  {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -961,8 +967,8 @@ body *::-webkit-scrollbar {
 /* Voice Chat */
 .container-1giJp5 {
 	 color: #000;
-	  background: #d4d0c8;
-	  background-color: #d4d0c8;
+	  background: #C0C0C0;
+	  background-color: #C0C0C0;
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
@@ -989,7 +995,7 @@ body *::-webkit-scrollbar {
   }
   .vz-dashboard-home-cta-content-icon-wrapper {
     color: #000;
-    background-color: #d4d0c8;
+    background-color: #C0C0C0;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1003,7 +1009,7 @@ body *::-webkit-scrollbar {
   /* Icons */
   .vz-dashboard-home-features-icon-wrapper {
     color: #000;
-    background-color: #d4d0c8 !important;
+    background-color: #C0C0C0 !important;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1011,7 +1017,7 @@ body *::-webkit-scrollbar {
   }
   .vz-dashboard-home-features-card {
     color: #000;
-    background-color: #d4d0c8 !important;
+    background-color: #C0C0C0 !important;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1021,7 +1027,7 @@ body *::-webkit-scrollbar {
   /* Background */
   .vz-dashboard-home-section-features, .vz-wave-divider-svg-path {
     color: #000;
-    background-color: #d4d0c8;
+    background-color: #C0C0C0;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1029,7 +1035,7 @@ body *::-webkit-scrollbar {
   }
   .vz-dashboard-layout, .vz-dashboard-scroller {
     color: #000;
-    background-color: #d4d0c8;
+    background-color: #C0C0C0;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1042,8 +1048,8 @@ body *::-webkit-scrollbar {
   /* Sidebar */
   .vz-dashboard-sidebar {
     color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
+    background: #C0C0C0;
+    background-color: #C0C0C0;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1053,8 +1059,8 @@ body *::-webkit-scrollbar {
   /* Sidebar Cat */
   .vz-c-settings-category-title, .vz-c-settings-category-inner, .vz-addons-list-sticky-bar {
     color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
+    background: #C0C0C0;
+    background-color: #C0C0C0;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1064,8 +1070,8 @@ body *::-webkit-scrollbar {
   /* Buttons */
   .topPill-30KHOu .item-PXvHYJ {
     color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
+    background: #C0C0C0;
+    background-color: #C0C0C0;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1091,8 +1097,8 @@ body *::-webkit-scrollbar {
 /* Typing and slow mode */
 .typing-2GQL18 {
     color: #000;
-    background: #d4d0c8;
-    background-color: #d4d0c8;
+    background: #C0C0C0;
+    background-color: #C0C0C0;
     border-bottom: 1px solid #848484;
     border-right: 1px solid #848484;
     border-top: 1px solid #fff;
@@ -1101,4 +1107,11 @@ body *::-webkit-scrollbar {
     top: -16px;
     padding: 0px 15px;
     left: .1px;
+}
+
+/* Hide scroll bar */
+.guilds-1SWlCJ {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
 }
