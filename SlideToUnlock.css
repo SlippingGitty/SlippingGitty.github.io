@@ -529,12 +529,12 @@ display: none;
   color: rgb(255, 255, 255) !important;
 }
 .item-26Dhrx[aria-checked=true] {
-  border-radius: 3px;
-  padding: 3px 5px 2px;
-  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
-  color: rgb(0, 0, 0) !important;
-  border-radius: 3px;
-  border: .2px solid #000000;
+    border-radius: 3px;
+    padding: 3px 5px 2px;
+    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    color: rgb(0, 0, 0) !important;
+    border-radius: 3px;
+    border: .2px solid #000000;
 }
 .item-26Dhrx {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
