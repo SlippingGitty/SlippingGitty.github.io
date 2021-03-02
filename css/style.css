@@ -16,6 +16,12 @@ body {
 	color: #ffffff;
 }
 
+#guild {
+	text-align: center;
+	font-style: italic;
+	color: #ffffff;
+}
+
 #title {
 	text-align: center;
 	color: #ff0000;
