@@ -1093,13 +1093,7 @@ body *::-webkit-scrollbar {
     box-shadow: none;
 }
 
-/* Jump to Present */
-.jumpToPresentBar-G1R9s6 {
-	display: inline;
-  background-color: #7289da00;
-  top: 0px;
-  left: 240px;
-}
+
 
 /* Typing and slow mode */
 .typing-2GQL18 {
