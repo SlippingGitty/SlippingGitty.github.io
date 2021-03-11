@@ -1118,9 +1118,6 @@ body *::-webkit-scrollbar {
 }
 
 /* Channel Tabs */
-.channelTabs-unreadBadge {
-   margin-right:  55px;
-}
 
 .channelTabs-closeTab, .channelTabs-newTab {
 	  color: #000 !important;
