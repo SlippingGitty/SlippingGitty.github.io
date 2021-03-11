@@ -1116,3 +1116,46 @@ body *::-webkit-scrollbar {
     height: 100%;
     overflow: hidden;
 }
+
+/* Channel Tabs */
+.channelTabs-unreadBadge {
+   margin-right:  55px;
+}
+
+.channelTabs-closeTab, .channelTabs-newTab {
+	  color: #000 !important;
+	  background: #C0C0C0 !important;
+	  background-color: #C0C0C0 !important;
+	  border-bottom: 1px solid #848484 !important;
+	  border-right: 1px solid #848484 !important;
+	  border-top: 1px solid #fff !important;
+	  border-left: 1px solid #fff !important;
+}
+
+.channelTabs-tabContainer {
+	  color: #000 !important;
+	  background: #C0C0C0 !important;
+	  background-color: #C0C0C0 !important;
+	  border-bottom: 1px solid #848484 !important;
+	  border-right: 1px solid #848484 !important;
+	  border-top: 1px solid #fff !important;
+	  border-left: 1px solid #fff !important;
+}
+
+.channelTabs-tab {
+	  color: #000 !important;
+	  background: #C0C0C0 !important;
+	  background-color: #C0C0C0 !important;
+	  border-bottom: 1px solid #848484 !important;
+	  border-right: 1px solid #848484 !important;
+	  border-top: 1px solid #fff !important;
+	  border-left: 1px solid #fff !important;
+}
+
+.channelTabs-tab:hover {
+	  background-color:  rgba(0, 0, 0, 0.144) !important;
+}
+
+.channelTabs-tab.channelTabs-selected {
+	  background-color:  rgba(0, 0, 0, 0.144) !important;
+}
