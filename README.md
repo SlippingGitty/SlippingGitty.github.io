@@ -1,3 +1,3 @@
 # https://slippinggitty.github.io
 
-this page exists so i can use `@import css("");` in my themes. pretty much it.
+directory that links to all my projects. also holds the source to all my themes so i can just use `@import css("");`.
