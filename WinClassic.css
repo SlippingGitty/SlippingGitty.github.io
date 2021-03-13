@@ -1214,7 +1214,6 @@ body *::-webkit-scrollbar {
 	  color: #000 !important;
 	  background: #C0C0C0 !important;
 	  background-color: #C0C0C0 !important;
-	  border-bottom: 1px solid #848484 !important;
 	  border-right: 1px solid #848484 !important;
 	  border-top: 1px solid #fff !important;
 	  border-left: 1px solid #fff !important;
@@ -1223,8 +1222,8 @@ body *::-webkit-scrollbar {
 .channelTabs-tab {
 	  color: #000 !important;
 	  background: #C0C0C0 !important;
-	  background-color: #C0C0C0 !important;
-	  border-bottom: 1px solid #848484 !important;
+	  background-color: #C0C0C1 !important;
+  	border-bottom: 1px solid #848484 !important;
 	  border-right: 1px solid #848484 !important;
 	  border-top: 1px solid #fff !important;
 	  border-left: 1px solid #fff !important;
@@ -1235,5 +1234,5 @@ body *::-webkit-scrollbar {
 }
 
 .channelTabs-tab.channelTabs-selected {
-	  background-color:  rgba(0, 0, 0, 0.144) !important;
+  	border-bottom: 0px !important;
 }
