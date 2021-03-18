@@ -66,7 +66,7 @@ body *::-webkit-scrollbar {
 ////////////////////////////////
 */
 
-  /*Variables*/
+/*Variables*/
 
 .platform-win {
     --classic-titlebar-height:20px;
@@ -286,15 +286,9 @@ body *::-webkit-scrollbar {
   }
   
   
-  
-  
-  
-  
-  
+
   /* fuck it scrollbars are broken i cant figure this shit out
   its up to you to fix them or wait for me to eventually fox them*/
-  
-  
   
   /*Scrollbars*/
   ::-webkit-scrollbar-corner {background-color: transparent;}
@@ -339,9 +333,6 @@ body *::-webkit-scrollbar {
 	  width: 16px;
   }
   
-  
-  
-  
   .theme-light .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-track {
 	  border:6px!important;
 	  border-radius: 0px!important;
@@ -354,26 +345,10 @@ body *::-webkit-scrollbar {
   .theme-light .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-track:active {
 	  background-color: #2a2a2a!important;
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   ::-webkit-input-placeholder, body, button, select, div {
 	  font-family: Tahoma,Whitney !important;
   }
-  
-  
-
-  
-  
-  
-
   
   .form-2fGMdU {
 	  background: #C0C0C0;
@@ -450,9 +425,6 @@ body *::-webkit-scrollbar {
 	  border-top:1px solid #fff;
   }
   
-
-
-  
   .theme-light input {
 	  background: #fff;
 	  background-color: #fff;
@@ -479,10 +451,6 @@ body *::-webkit-scrollbar {
   .theme-light .attachButton-1UjEWA:hover {
 	  background: #0a246a;
   }
-  
-  
-  
-  
   
   .modeSelected-1zApJ_ .name-3_Dsmg,
   .wrapper-1ucjTd:hover .name-3_Dsmg,
