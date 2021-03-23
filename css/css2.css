@@ -1,0 +1,51 @@
+/* Global Garbage */
+body {
+	background-color: #05262E;
+	background-repeat: repeat;
+	color: #82969C;
+	font-family: monospace;
+	font-size: 16px;
+	margin: 2em auto;
+	max-width: 800px;
+	padding: 1em;
+	line-height: 1.4;
+	text-align: justify;
+}
+
+/* Link Colors */
+a:link {
+	color: #82969C;
+}
+a:visited {
+	color: #82969C;
+}
+
+/* Styles for specific div IDs */
+
+#desc {
+	text-align: center;
+	font-style: italic;
+	color: #C5D0D3;
+}
+
+#guild {
+	text-align: center;
+	font-style: italic;
+	color: #C5D0D3;
+}
+
+#title {
+	text-align: center;
+	color: #2AA198;
+}
+
+#image {
+	text-align: center;
+	border-radius: 3px;
+}
+
+#subtitle {
+	text-align: center;
+	color: #C5D0D3;
+    font-style: italic;
+}
