@@ -642,11 +642,15 @@ body *::-webkit-scrollbar {
   }
   
   /* Guilds bar */
-  .guilds-1SWlCJ .scroller-2TZvBN {
+.scroller-1Bvpku {
 	  background-color: var(--background-modifier-selected);
+  	border-bottom: 1px solid #848484;
+	  border-right: 1px solid #848484;
+	  border-top: 1px solid #fff;
+	  border-left: 1px solid #fff
   }
   
-  .circleIconButton-jET_ig, .childWrapper-anI2G9 {
+.circleIconButton-1QV--U, .childWrapper-anI2G9 {
 	  color: #000;
 	  background: #C0C0C0;
 	  background-color: #C0C0C0;
@@ -664,7 +668,7 @@ body *::-webkit-scrollbar {
 	  border-top:1px solid #fff;
   }
   
-  .closedFolderIconWrapper-15K9MK, .expandedFolderIconWrapper-1xLaU-  {
+ .closedFolderIconWrapper-2sTcE6, .expandedFolderIconWrapper-1xLaU-  {
 	  color: #000;
 	  background: #C0C0C0;
 	  background-color: #C0C0C0;
@@ -844,7 +848,7 @@ body *::-webkit-scrollbar {
   }
   
   /* Guilds Bar */ 
-  .wrapper-1Rf91z{
+  .wrapper-1Rf91z {
 	  border-bottom: 1px solid #848484;
 	  border-right: 1px solid #848484;
 	  border-top: 1px solid #fff;
