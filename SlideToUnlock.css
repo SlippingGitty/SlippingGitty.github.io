@@ -105,7 +105,7 @@ background: transparent;
 }
 
 /* Servers */
-.platform-win .scroller-2TZvBN {
+.scroller-1Bvpku {
   font-weight: 700;
   background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) !important;
   border: 1px solid #00000065;
@@ -131,7 +131,7 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
 
 
 /* Server Folders */
-.closedFolderIconWrapper-15K9MK {
+.closedFolderIconWrapper-2sTcE6 {
   border-radius: 1px;
 }
 .childWrapper-anI2G9, .wrapper-1BJsBx {
@@ -360,7 +360,7 @@ display: none;
 */
 
 /* Server Buttons */
-.circleIconButton-jET_ig {
+.circleIconButton-1QV--U  {
   padding: 6px 10px 5px;
   font-weight: 700;
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
