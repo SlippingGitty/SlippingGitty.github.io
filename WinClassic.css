@@ -1164,10 +1164,8 @@ body *::-webkit-scrollbar {
 }
 
 /* Hide scroll bar */
-.guilds-1SWlCJ {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
+.guilds-1SWlCJ *::-webkit-scrollbar {
+	display: none;
 }
 
 /* Channel Tabs */
