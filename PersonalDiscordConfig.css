@@ -145,7 +145,7 @@ oooooo     oooo                                            .o88o.  o8o          
 }
 
 /* Green text quoting - vozy */
-kquoteDivider-2hH8H6, .blockquoteDivider-2hH8H6:before  {
+.blockquoteContainer-U5TVEi, .blockquoteDivider-2hH8H6, .blockquoteDivider-2hH8H6:before  {
     background-color: transparent;
     color: #789922 !important;
     content: ">";
