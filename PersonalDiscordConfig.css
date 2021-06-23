@@ -144,3 +144,13 @@ oooooo     oooo                                            .o88o.  o8o          
   	border-bottom: 0px !important;
 }
 
+/* Green text quoting - vozy */
+kquoteDivider-2hH8H6, .blockquoteDivider-2hH8H6:before  {
+    background-color: transparent;
+    color: #789922 !important;
+    content: ">";
+}
+.blockquoteContainer-U5TVEi blockquote {
+    text-indent: -7px;
+}
+
