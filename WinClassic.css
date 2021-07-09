@@ -589,6 +589,23 @@ body *::-webkit-scrollbar {
     border-top: 1px solid #000;
     border-bottom: none;
 }
+.container-lRFx4q {
+	  color: #000 !important;
+	  background: #C0C0C0 !important;
+	  background-color: #C0C0C0 !important;
+	  border-right: 1x solid #848484 !important;
+	  border-top: 1px solid #fff !important;
+	  border-left: 1px solid #fff !important;
+}
+.card-2qZngs {
+	  color: #000 !important;
+	  background: #C0C0C0 !important;
+	  background-color: #C0C0C0 !important;
+	  border-bottom: 1px solid #848484 !important;
+	  border-right: 1px solid #848484 !important;
+	  border-top: 1px solid #fff !important;
+	  border-left: 1px solid #fff !important;
+}
   
   /* Channels */
   .content-1x5b-n {
@@ -934,6 +951,14 @@ body *::-webkit-scrollbar {
 	  border-top: 1px solid #848484;
 	  border-left: 1px solid #848484;
   }
+  .accountProfileCard-1XCH88 {
+	  color: #000 !important;
+	  background: #C0C0C0 !important;
+	  background-color: #C0C0C0 !important;
+	  border-right: 1x solid #848484 !important;
+	  border-top: 1px solid #fff !important;
+	  border-left: 1px solid #fff !important;
+}
   
   /* Checkboxes - Slate Theme - Tropical */
   #app-mount .container-3auIfb .input-rwLH4i, #app-mount .container-3auIfb .input-3ITkQf, #app-mount .checkboxWrapper-SkhIWG .input-rwLH4i, #app-mount .checkboxWrapper-SkhIWG .input-3ITkQf {
@@ -1028,7 +1053,8 @@ body *::-webkit-scrollbar {
 	  border-left: 1px solid #fff;
 }
   
-  /* Powercord Settings */
+
+/* Powercord Settings */
   .powercord-entities-manage-tabs {
 	  background-color: var(--background-modifier-selected);
 		border-bottom: 1px solid #848484;
