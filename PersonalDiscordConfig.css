@@ -16,14 +16,14 @@ oooooo     oooo                                            .o88o.  o8o          
 ////////////////////////
 */
 
+@import url("https://discordstyles.github.io/Addons/bottomhsl.css");
+
 /* Horizontal Server List on Bottom - LICENSED UNDER MIT: https://github.com/DiscordStyles/HorizontalServerList/blob/master/LICENSE.md */
 @import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
 :root {
   --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
   --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
 }
-
-@import url("https://discordstyles.github.io/Addons/bottomhsl.css");
 
 /* Powercord Snipits - AGAIN - READ: NOT MINE. FIND THESE ON THE POWERCORD SERVER. */
 
