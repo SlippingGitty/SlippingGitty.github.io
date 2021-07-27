@@ -17,8 +17,7 @@ oooooo     oooo                                            .o88o.  o8o          
 */
 
 /* Horizontal Server List on Bottom - LICENSED UNDER MIT: https://github.com/DiscordStyles/HorizontalServerList/blob/master/LICENSE.md */
-@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/bottomhsl.css");
-@import url("https://discordstyles.github.io/HorizontalServerList/base.css");
+@import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
 :root {
   --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
   --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
