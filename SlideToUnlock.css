@@ -85,6 +85,11 @@ background: transparent;
   background: linear-gradient(rgb(17, 18, 22), rgb(77, 77, 87)) !important;
   border: 1px solid #00000065;
 }
+.content-1gYQeQ:hover {
+  box-shadow: 0 0 2px 2px #4189c38c;
+  right: 2px;
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+}
 .users-2JoyGL {
   font-weight: 700;
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
@@ -109,11 +114,6 @@ background: transparent;
   font-weight: 700;
   background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) !important;
   border: 1px solid #00000065;
-}
-.scrollableContainer-15eg7h {
-  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
-  border: 1px solid #00000065;
-  box-shadow: 0 0 10px 3px #0000008c;
 }
 .item-2LIpTv {
 width: 5px;
@@ -158,6 +158,10 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
 .nowPlayingColumn-1eCBCN {
   background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
 }
+.peopleColumn-1wMU14 {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+  border: 1px solid #00000065;
+}
 .itemCard-3Etziu {
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
@@ -184,6 +188,13 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
 }
 
 /* Search */
+.searchBar-2aylmZ {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+  border: 1px solid #00000065;
+}
+.searchBar-2aylmZ:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
 .searchBar-zdmu7v {
   background: linear-gradient(rgb(34, 37, 42), rgb(55, 56, 61)) !important;
   border-radius: 4px;
@@ -219,6 +230,32 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
 }
 .channelName-3w2Y3c {
   background: none;
+}
+
+/*
+/////////////////
+///CHAT BOX
+////////////////
+*/
+
+/* Text Box */
+.scrollableContainer-15eg7h {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+  border: 1px solid #00000065;
+  box-shadow: 0 0 10px 3px #0000008c;
+}
+.scrollableContainer-15eg7h:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+
+/* Upload Preview */
+.upload-3GTSF9 {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+  border: 1px solid #00000065;
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+.actionBarIcon-3IdPoi {
+  color: black;
 }
 
 /*
@@ -428,12 +465,12 @@ display: none;
   color: rgb(255, 255, 255) !important;
 }
 
-/* People/Buttons */
+/* People/Buttons
 .layout -2DM8Md {
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
   border: 1px solid #000000;
-}
+}*/
 
 /* Checkboxes - Slate Theme - Tropical */
     #app-mount .container-2nx-BQ .input-2XRLou, #app-mount .container-2nx-BQ .input-3xr72x, #app-mount .checkboxWrapper-2fDzaA .input-2XRLou, #app-mount .checkboxWrapper-2fDzaA .input-3xr72x {
@@ -480,6 +517,10 @@ display: none;
 }
 
 /* Settings */
+.accountProfileCard-lbN7n- {
+  background: linear-gradient(rgb(66, 66, 68), rgb(27, 28, 30)) !important;
+  border: 1px solid #00000065;
+}
 .sidebarRegionScroller-FXiQOh {
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
@@ -572,6 +613,14 @@ display: none;
 }
 .scroller-3iiyhZ {
   padding: 0px 0x 0px;
+}
+.lookFilled-yCfaCM.colorBrand-I6CyqQ, .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B {
+  background: linear-gradient(to bottom, rgba(235, 235, 235) 0%,hsl(220, 74%, 49%) 50%,hsl(220, 73%, 68%) 100%); 
+  border: 1px solid #00000065;
+}
+.lookOutlined-3yKVGo.colorRed-rQXKgM {
+  background: linear-gradient(to bottom, rgb(222, 233, 213) 0%,rgb(196, 25, 34) 50%,rgb(227, 145, 163) 100%); 
+  color: white;
 }
 
 
@@ -810,6 +859,9 @@ font-weight: 700;
   color: white;
   text-shadow: 2px 2px 2px #00000000;
 }
+.theme-light .root-g14mjS {
+  background: linear-gradient(rgb(27, 28, 30), rgb(10, 10, 10)) !important;
+}
 
 /*
 ///////////
@@ -1035,6 +1087,9 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
   color: rgb(0, 0, 0) !important;
 }
+.icon-2xnN2Y:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
 .status-3TYC5W, .description-3Cwkxk {
   font-weight: 700;
   color: black;
@@ -1046,53 +1101,3 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 /// HOTFIXES AND ADDITIONAL STUFF TO ORGANIZE WHEN IM NOT A LAZY LITTLE SHIT
 ////////////////////////////////////////////////////////////////////////////////
 */
-
-.scrollableContainer-15eg7h:hover {
-  box-shadow: 0 0 2px 3px #4189c38c;
-}
-
-.upload-3GTSF9 {
-  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
-  border: 1px solid #00000065;
-  box-shadow: 0 0 2px 3px #4189c38c;
-}
-
-.actionBarIcon-3IdPoi {
-  color: black;
-}
-
-.peopleColumn-1wMU14 {
-  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
-  border: 1px solid #00000065;
-}
-
-.searchBar-2aylmZ {
-  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
-  border: 1px solid #00000065;
-}
-
-.searchBar-2aylmZ:hover {
-  box-shadow: 0 0 2px 3px #4189c38c;
-}
-
-.accountProfileCard-lbN7n- {
-  background: linear-gradient(rgb(66, 66, 68), rgb(27, 28, 30)) !important;
-  border: 1px solid #00000065;
-}
-
-.lookFilled-yCfaCM.colorBrand-I6CyqQ, .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B {
-  background: linear-gradient(to bottom, rgba(235, 235, 235) 0%,hsl(220, 74%, 49%) 50%,hsl(220, 73%, 68%) 100%); 
-  border: 1px solid #00000065;
-}
-
-.lookOutlined-3yKVGo.colorRed-rQXKgM {
-  background: linear-gradient(to bottom, rgb(222, 233, 213) 0%,rgb(196, 25, 34) 50%,rgb(227, 145, 163) 100%); 
-  color: white;
-}
-
-.theme-light .root-g14mjS {
-  background: linear-gradient(rgb(27, 28, 30), rgb(10, 10, 10)) !important;
-}
-
-
-
