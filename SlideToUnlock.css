@@ -113,6 +113,7 @@ background: transparent;
 .scrollableContainer-15eg7h {
   background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
   border: 1px solid #00000065;
+  box-shadow: 0 0 10px 3px #0000008c;
 }
 .item-2LIpTv {
 width: 5px;
@@ -168,6 +169,9 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
   border: 1px solid #00000065;
 }
 
+.container-1oAagU {
+  background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+}
 /*
 ////////////////////////////
 ///CHANNELS INFO/SEARCH
@@ -182,7 +186,7 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
 /* Search */
 .searchBar-zdmu7v {
   background: linear-gradient(rgb(34, 37, 42), rgb(55, 56, 61)) !important;
-  border-radius: 1px;
+  border-radius: 4px;
   border: 1px solid #000000;
 }
 .searchBar-zdmu7v:hover {
@@ -488,8 +492,7 @@ display: none;
 }
 .fieldList-in8WkP {
   font-weight: 700;
-  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
-  border: 1px solid #00000065;
+  background: linear-gradient(rgba(72, 73, 75, 0), rgba(38, 39, 41, 0)) !important;
 }
 .background-3d_SjE {
   font-weight: 700;
@@ -655,12 +658,6 @@ display: none;
 }
 
 /* DM Menu */
-.focusLock-2tveLW, .root-g14mjS {
-  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
-  border: .2px solid #000000;
-  color: rgb(255, 255, 255) !important;
-  margin-bottom: -1px;
-}
 .inner-1NoIT5 {
   font-weight: 700;
   background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) !important;
@@ -1043,3 +1040,59 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
   color: black;
   text-shadow: 2px 2px 2px #00000000;
 }
+
+/*
+////////////////////////////////////////////////////////////////////////////////
+/// HOTFIXES AND ADDITIONAL STUFF TO ORGANIZE WHEN IM NOT A LAZY LITTLE SHIT
+////////////////////////////////////////////////////////////////////////////////
+*/
+
+.scrollableContainer-15eg7h:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+
+.upload-3GTSF9 {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+  border: 1px solid #00000065;
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+
+.actionBarIcon-3IdPoi {
+  color: black;
+}
+
+.peopleColumn-1wMU14 {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+  border: 1px solid #00000065;
+}
+
+.searchBar-2aylmZ {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+  border: 1px solid #00000065;
+}
+
+.searchBar-2aylmZ:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
+
+.accountProfileCard-lbN7n- {
+  background: linear-gradient(rgb(66, 66, 68), rgb(27, 28, 30)) !important;
+  border: 1px solid #00000065;
+}
+
+.lookFilled-yCfaCM.colorBrand-I6CyqQ, .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B {
+  background: linear-gradient(to bottom, rgba(235, 235, 235) 0%,hsl(220, 74%, 49%) 50%,hsl(220, 73%, 68%) 100%); 
+  border: 1px solid #00000065;
+}
+
+.lookOutlined-3yKVGo.colorRed-rQXKgM {
+  background: linear-gradient(to bottom, rgb(222, 233, 213) 0%,rgb(196, 25, 34) 50%,rgb(227, 145, 163) 100%); 
+  color: white;
+}
+
+.theme-light .root-g14mjS {
+  background: linear-gradient(rgb(27, 28, 30), rgb(10, 10, 10)) !important;
+}
+
+
+
