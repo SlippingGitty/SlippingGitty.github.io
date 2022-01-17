@@ -1,4 +1,4 @@
-/* Licenced under MIT - https://github.com/SlippingGitty/SlideToUnlock/blob/main/LICENSE */
+/* Licence https://github.com/SlippingGitty/SlideToUnlock/blob/main/LICENSE */
 
 /*
 ///////////////
@@ -53,6 +53,15 @@
 .colorSuccess-2js6tw {
   background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
   border-color: rgba(0, 0, 0, 0.363);
+}
+
+/* Server "Complete these steps" Banner */
+.wrapper-2SplAX, .notice-1x8lm- {
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
+  box-shadow: 0 0 5px 5px #4189c38c;
+}
+.lookOutlined-3yKVGo.colorWhite-1H92hK, .lookFilled-yCfaCM.colorPrimary-2AuQVo{
+  background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
 }
 
 /*
@@ -116,11 +125,11 @@ background: transparent;
   border: 1px solid #00000065;
 }
 .item-2LIpTv {
-width: 5px;
-border-radius: 0%;
-left: 5px;
-border: 1px solid #000000;
-background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
+  width: 5px;
+  border-radius: 0%;
+  left: 5px;
+  border: 1px solid #000000;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
 }
 .mention-3XBnnZ {
     border-radius: 3px;
@@ -129,7 +138,10 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
     border: 1px solid #000000;
     color: rgb(255, 255, 255) !important;
 }
-
+.svg-2zuE5p:hover {
+  box-shadow: 0 0 5px 5px #4189c38c;
+  border-radius: 30%;
+}
 
 /* Server Folders */
 .closedFolderIconWrapper-2sTcE6 {
@@ -256,6 +268,11 @@ background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 
 }
 .actionBarIcon-3IdPoi {
   color: black;
+}
+
+/* Replying Bar */
+.replyBar-1oi75v {
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51, 51) 50%,rgb(161, 161, 161) 100%);
 }
 
 /*
@@ -430,13 +447,16 @@ display: none;
   color: rgb(0, 0, 0) !important;
   box-shadow: 2px 2px 2px #00000036 !important;
 }
-.unread-2wipsx {
+.unread-2wipsx, .iconBadge-3Mmg92 {
   border-radius: 3px;
   padding: 3px 5px 1.5px;
   font-weight: 700;
   background: linear-gradient(to bottom, rgb(227, 145, 145) 0%,rgba(196, 25, 25, 0.705) 50%,rgba(227, 145, 145, 0.397) 100%);
   border: 1px solid #000000;
   color: rgb(255, 255, 255) !important;
+}
+.button-2b4VEQ.buttonSize-3QlBTl {
+  background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
 }
 
 /* Selected Button */
@@ -1095,9 +1115,17 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
   color: black;
   text-shadow: 2px 2px 2px #00000000;
 }
+/* Unread Badge */
+.numberBadge-37OJ3S, .newBadge-1bHewI {
+  background: linear-gradient(to bottom, rgb(227, 145, 145) 0%,rgba(196, 25, 25, 0.705) 50%,rgba(227, 145, 145, 0.397) 100%); 
+}
 
 /*
 ////////////////////////////////////////////////////////////////////////////////
 /// HOTFIXES AND ADDITIONAL STUFF TO ORGANIZE WHEN IM NOT A LAZY LITTLE SHIT
 ////////////////////////////////////////////////////////////////////////////////
 */
+
+.icon-3AqZ2e:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+}
