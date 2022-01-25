@@ -315,65 +315,7 @@ div.contents-18-Yxp {
     margin-right: 280px;
 }
 
-/* Message Text Box Thing */
-.scrollableContainer-15eg7h {
-    background-color: #312F51;
-}
-.buttonWrapper-3YFQGJ {
-    margin-top: -10px;
-}
-.icon-1d5zch {
-    margin-top: 10px;
-}
-.textArea-2CLwUE {
-    border-radius: 20px;
-    padding: 6px 10px 5px;
-    background-color: #423F71;
-}
-.fontSize16Padding-XoMpjI{
-    padding-bottom: 11px;
-    padding-top: 6px;
-    padding-left: 11px;
-}
-.stickerIcon-3Jx5SE {
-    margin-top: 10px;
-}
-div.contents-18-Yxp.button-2fCJ0o.button-3BaQ4X.flexChild-3PzYmX {
-  margin-top: -10px;
-}
-button[aria-label="Send a gift"] {
-    display: none;
-}
-.button-38aScr[aria-label="Send a gift"]{
-  display:none;
-}
-.buttons-uaqb-5[aria-label="Send a gift"]{ 
-display:none;
-}
- div.contents-18-Yxp {
-    color: #6ADBC6;
-    font-weight: 100;
-}
-g[Attributes Style] {
-    fill: none;
-    fill-rule: evenodd;
-}
-.attachButton-_ACFSu {
-    height: 44px;
-    padding: 10px 16px;
-    top: 0;
-    color: #BDBAEB;
-    background-color: #423F71;
-    height: 44px;
-    width: 44px;
-    border-radius: 50%;
-}
-.attachWrapper-3slhXI {
-    padding-right: 11px;
-}
-.attachButtonPlus-3IYelE {
-    fill: #6ADBC6;
-}
+
 
 /* User flyout */
 
