@@ -151,6 +151,56 @@ background: transparent;
   border-radius: 1px;
 }
 
+/* Server folder custom icons /// LeafyLuigi /// WIP */
+.expandedFolderBackground-1kSAf6 {
+  background: transparent;
+}
+.folder-241Joy, .folder-241Joy.hover-3m7-WT {
+  background: transparent;
+}
+.wrapperSimple-Js2rIO {
+  border-radius: unset;
+  overflow: unset;
+}
+.wrapper-38slSD .listItem-3SmSlK {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
+}
+.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ .listItem-3SmSlK {
+  background-image: url(https://cdn.discordapp.com/attachments/830247372244254720/933041341972242453/folder.png);
+}
+.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ ul > .listItem-3SmSlK {
+  background-image: none;
+}
+.wrapper-38slSD > .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi) ~ ul > .listItem-3SmSlK:last-child {
+  background-image: none;
+}
+.expandedFolderBackground-1kSAf6 {
+  background-repeat: repeat-y;
+  background-size: contain;
+  background-image: none;
+}
+.wrapper-3kah-n .childWrapper-1j_1ub {
+  transition: background-color 0.1s ease-out, color 0.1s ease-out, border-radius 0.1s ease-out;
+}
+.wrapper-3kah-n.selected-1Drb7Z .icon-3AqZ2e,
+.wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .icon-3AqZ2e,
+.wrapper-3kah-n:hover .childWrapper-1j_1ub,
+.circleIconButton-1VxDrg.selected-2r1Hvo {
+  border-radius: 33%;
+}
+.wrapper-3kah-n .icon-3AqZ2e,
+.wrapper-3kah-n .childWrapper-1j_1ub {
+  border-radius: 50%;
+  transition: border-radius 0.1s;
+}
+.circleIconButton-1VxDrg {
+  border-radius: 50%;
+  transition: color 0.15s ease-out, background-color 0.15s ease-out, border-radius 0.15s;
+}
+
 /* Channel Names ---- enable by fixing name */
 .mainContent-u_9 PKf:before {
   border-radius: 0px;
