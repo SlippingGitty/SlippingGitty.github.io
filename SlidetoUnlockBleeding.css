@@ -301,7 +301,7 @@ background: transparent;
 */
 
 /* Text Box */
-.scrollableContainer-15eg7h {
+.scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH {
   background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
   border: 1px solid #00000065;
   box-shadow: 0 0 10px 3px #0000008c;
@@ -323,6 +323,8 @@ background: transparent;
 /* Replying Bar */
 .replyBar-1oi75v {
   background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51, 51) 50%,rgb(161, 161, 161) 100%);
+  border: 1px solid #00000065;
+  border-radius: 3px;
 }
 
 /*
@@ -368,6 +370,7 @@ display: none;
   font-weight: 700;
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
   border: 1px solid #00000065;
+  border-radius: 3px;
   left: 15px;
 }
 
@@ -706,13 +709,12 @@ display: none;
 /* Inbox */
 .header-145e10, .header-145e10 .tab-TRrPC8 {
   background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
-  border: 1px solid #00000065;
    border-radius: 3px;
 }
 .messageContainer-3VTXBC {
-  background-color: white;
+  background-color: #545454;
   border-color:#cacaca;
-  border-radius: 3px;
+  border-radius: 10px;
   margin-top: -6px;
 }
 .channelHeader-DFRX8q {
@@ -1203,15 +1205,19 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 }
 
 .header-1w9Q93 {
-  background: linear-gradient(rgba(180,195,214,255), rgba(92,118,153,255)) !important;
+  background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
 }
 
 .messagesPopout-eVzQcI {
-  background-image: url(https://i.postimg.cc/hvq42p2X/Privacy-i-OS-6.jpg);
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
 }
 
 .messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN {
-  background-color: white;
+  background-color: #545454;
+  border-radius: 10px;
   border-color: #cacaca;
-  color: black;
+}
+
+.footer-5ji8u1 {
+  background: linear-gradient(rgba(180,195,214,255), rgba(92,118,153,255)) !important;
 }
