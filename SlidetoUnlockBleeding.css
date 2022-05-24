@@ -682,10 +682,13 @@ display: none;
 .item-2idW98[aria-checked=true] {
     border-radius: 3px;
     padding: 3px 5px 2px;
-    background: linear-gradient(rgb(223, 223, 223), rgb(167, 167, 167)) !important;;
+    background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%) !important;
     color: rgb(0, 0, 0) !important;
     border-radius: 3px;
     border: .2px solid #000000;
+}
+.text-md-medium-2avxhQ {
+  font-weight: 700;
 }
 .item-2idW98 {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
@@ -724,6 +727,14 @@ display: none;
 .lookOutlined-3yKVGo.colorRed-rQXKgM {
   background: linear-gradient(to bottom, rgb(222, 233, 213) 0%,rgb(196, 25, 34) 50%,rgb(227, 145, 163) 100%); 
   color: white;
+}
+.accountList-Wii_T5,.connection-YOVI9j, .connectionHeader-Ixbb1s, .theme-dark .feature-2IUcBI, .guildSubscriptionSlots-1i_C21, .card-2xlCYc, .billingInformation-2bXmfE, .detailsBlock-24pLFz:last-child, .noItemsCard-5EOcCl, .promotionCard-mo7ClH {
+  background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
+}
+.selectedBackground-1t6xXq {
+  background: linear-gradient(to bottom, rgba(235, 235, 235) 0%,hsl(303, 74%, 49%) 50%,hsl(308, 73%, 68%) 100%); 
+  border: 1px solid #00000065;
+  border-radius: 3px;
 }
 
 /*
