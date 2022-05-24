@@ -440,16 +440,16 @@ display: none;
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
   color: rgb(255, 255, 255) !important;
 }
+.icon-E4cW1l, .iconContainer-1-SsTR {
+  color: white;
+}
 .optionName-1ebPjH, .optionIcon-1Ft8w0 {
   color: rgb(255, 255, 255) !important;
 }
 .label-2gNW3x {
   font-weight: 700;
-  color: black;
+  color: rgb(255, 255, 255);
   text-shadow: 2px 2px 2px #00000000;
-}
-.icon-E4cW1l, .iconContainer-1-SsTR, .icon-1zidb7, {
-  color: rgba(0, 0, 0, 0);
 }
 .wrapper-2vIMkT {
   border-radius: 3px;
@@ -458,9 +458,6 @@ display: none;
   color: rgb(0, 0, 0) !important;
 }
 .icon-1zidb7 {
-  color: black;
-}
-.icon-E4cW1l, .iconContainer-1-SsTR {
   color: black;
 }
 
