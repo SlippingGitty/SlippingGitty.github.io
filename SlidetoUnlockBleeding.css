@@ -118,6 +118,9 @@ background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
 .members-3WRCEx>div {
 background: transparent;
 }
+.container-2o3qEW, .membersWrap-3NUR2t {
+  background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+}
 
 /* Channels */
 .container-1NXEtd {
@@ -139,6 +142,7 @@ background: transparent;
   box-shadow: 0 0 2px 2px #4189c38c;
   right: 2px;
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+  transition: 0.3s;
 }
 .users-2JoyGL {
   font-weight: 700;
@@ -294,12 +298,13 @@ background: transparent;
 }
 
 /* Search */
-.searchBar-2aylmZ {
-  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
+.searchBar-2aylmZ, .input-2z42oC {
+  background: linear-gradient(rgb(0, 0, 0), rgb(16, 16, 17)) !important;
   border: 1px solid #00000065;
 }
 .searchBar-2aylmZ:hover {
   box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
 }
 .searchBar-jGtisZ {
   background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
@@ -308,6 +313,7 @@ background: transparent;
 }
 .searchBar-jGtisZ:hover {
   box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
 }
 .searchBar-3TnChZ  {
   background: linear-gradient(rgb(79, 82, 91), rgb(51, 54, 61)) !important;
@@ -438,6 +444,10 @@ display: none;
   color: rgb(255, 255, 255) !important;
 }
 
+.theme-dark .elevationHigh-28Pty4 {
+  background: linear-gradient(to bottom, rgb(227, 145, 145) 0%,rgba(196, 25, 25, 0.705) 50%,rgba(227, 145, 145, 0.397) 100%); 
+}
+
 /* Older Messages Bartender */
 .jumpToPresentBar-1cEnH0 {
   font-weight: 700;
@@ -555,8 +565,13 @@ display: none;
   border: 1px solid #000000;
   color: rgb(255, 255, 255) !important;
 }
-.button-2b4VEQ.buttonSize-3QlBTl {
+.lookFilled-yCfaCM.colorGreen-3y-Z79 {
   background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
+}
+.lookFilled-yCfaCM.colorGreen-3y-Z79:hover {
+  box-shadow: 0 0 2px 3px #4189c38c;
+  background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgb(60, 129, 11) 50%,rgb(49, 114, 0) 100%); 
+  transition: 0.3s;
 }
 .unicodeShortcut-3N8oDe {
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
@@ -848,6 +863,10 @@ display: none;
 .userPopout-2j1gM4 {
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
 }
+.userPopout-2j1gM4:hover {
+box-shadow: 2px 10px 20px #00b1e750 !important;
+transition: 0.3s;
+}
 
 /* Emote info */
 .emojiSection-3QtaWO {
@@ -1045,6 +1064,7 @@ font-weight: 700;
 .inputField-2RZxdl:hover, .inputDefault-3FGxgL:hover {
   box-shadow: 0 0 2px 3px #4189c3;
   background-color: white;
+  transition: 0.3s;
 }
 
 
@@ -1263,6 +1283,7 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 }
 .icon-2xnN2Y:hover {
   box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
 }
 .status-3TYC5W, .description-3Cwkxk {
   font-weight: 700;
