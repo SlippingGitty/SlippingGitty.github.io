@@ -97,6 +97,11 @@ SOFTWARE.
 .lookOutlined-3yKVGo.colorWhite-1H92hK, .lookFilled-yCfaCM.colorPrimary-2AuQVo{
   background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
 }
+.lookOutlined-3yKVGo.colorWhite-1H92hK:hover, .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
+  background: linear-gradient(to bottom, rgb(22, 51, 0) 0%,rgb(33, 77, 2) 50%,rgb(42, 92, 4) 100%); 
+  box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
+}
 
 /* Verify banner */
 .lookFilled-yCfaCM.colorRed-rQXKgM {
@@ -705,6 +710,11 @@ display: none;
   border: 1px solid #000000;
   color: rgb(0, 0, 0) !important;
 }
+.theme-dark .closeButton-PCZcma:hover {
+  background: linear-gradient(to bottom, rgb(104, 0, 0) 0%,rgb(197, 0, 0) 50%,rgb(68, 0, 0) 100%); 
+  box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
+}
 .lookFilled-1Gx00P.colorGrey-2DXtkV {
   border-radius: 3px;
   padding: 6px 10px 5px;
@@ -767,9 +777,19 @@ display: none;
   background: linear-gradient(to bottom, rgba(235, 235, 235) 0%,hsl(220, 74%, 49%) 50%,hsl(220, 73%, 68%) 100%); 
   border: 1px solid #00000065;
 }
+.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover, .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B:hover {
+  background: linear-gradient(to bottom, rgb(38, 0, 100) 0%,rgb(0, 18, 175) 50%,rgb(0, 36, 156) 100%); 
+  box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
+}
 .lookOutlined-3yKVGo.colorRed-rQXKgM {
   background: linear-gradient(to bottom, rgb(222, 233, 213) 0%,rgb(196, 25, 34) 50%,rgb(227, 145, 163) 100%); 
   color: white;
+}
+.lookOutlined-3yKVGo.colorRed-rQXKgM:hover {
+  background: linear-gradient(to bottom, rgb(104, 0, 0) 0%,rgb(197, 0, 0) 50%,rgb(68, 0, 0) 100%); 
+  box-shadow: 0 0 2px 3px #4189c38c;
+  transition: 0.3s;
 }
 .accountList-Wii_T5,.connection-YOVI9j, .connectionHeader-Ixbb1s, .theme-dark .feature-2IUcBI, .guildSubscriptionSlots-1i_C21, .card-2xlCYc, .billingInformation-2bXmfE, .detailsBlock-24pLFz:last-child, .noItemsCard-5EOcCl, .promotionCard-mo7ClH, .theme-dark .notDetected-M3Ghh2, .theme-dark .addGamePopout-2SKNIV {
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
@@ -1201,6 +1221,7 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 }
 .icon-2xnN2Y:hover {
   box-shadow: 0 0 2px 3px #4189c38c;
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51, 51) 50%,rgb(161, 161, 161) 100%);
   transition: 0.3s;
 }
 .status-3TYC5W, .description-3Cwkxk {
