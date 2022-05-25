@@ -1280,8 +1280,12 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 }
 .status-3TYC5W, .description-3Cwkxk {
   font-weight: 700;
-  color: black;
+  color: white;
   text-shadow: 2px 2px 2px #00000000;
+}
+.accountCard-2lki2x {
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
+  background-color: #4e5d94;
 }
 /* Unread Badge */
 .numberBadge-37OJ3S, .newBadge-1bHewI {
