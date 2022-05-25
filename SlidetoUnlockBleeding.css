@@ -1243,3 +1243,8 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 /// HOTFIXES AND ADDITIONAL STUFF TO ORGANIZE WHEN IM NOT A LAZY LITTLE SHIT
 ////////////////////////////////////////////////////////////////////////////////
 */
+
+.communityInfoPill-2Mll66 {
+background: linear-gradient(to bottom, rgb(227, 145, 145) 0%,rgba(196, 25, 25, 0.705) 50%,rgba(227, 145, 145, 0.397) 100%); 
+display:none;
+}
