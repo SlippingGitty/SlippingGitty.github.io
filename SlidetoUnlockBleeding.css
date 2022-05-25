@@ -595,6 +595,9 @@ display: none;
   border: 1px solid #000000;
   color: rgb(0, 0, 0) !important;
 }
+.button-3bklZh {
+  color: rgb(0, 0, 0) !important;
+}
 .theme-dark .root-g14mjS, .inspector-DFKXwB, .standardStickerShortcut-ObSns3 {
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
 }
@@ -792,7 +795,7 @@ display: none;
 
 /* Inbox */
 .header-145e10, .header-145e10 .tab-TRrPC8 {
-  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) !important;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%) !important;
    border-radius: 3px;
 }
 .messageContainer-3VTXBC {
@@ -914,9 +917,18 @@ transition: 0.3s;
 }
 
 /* Image uploading preview */
-.theme-dark .uploadModal-2ie9O_, .uploadModal-2ie9O_, .footer-VCsJQY.hasSpoilers-33hwf_, .autocompleteInner-y1mjDl  {
-  background: linear-gradient(rgb(74, 77, 86), rgb(51, 54, 61)) !important;
+ .autocompleteInner-y1mjDl  {
+  background: linear-gradient(to bottom, rgb(87, 87, 87) 0%,rgb(44, 44, 44) 50%,rgb(0, 0, 0) 100%); 
   border: 1px solid #00000065;
+}
+
+.autocompleteInner-y1mjDl:hover {
+  box-shadow: 0 0 5px 5px #4189c38c;
+  transition: 0.3s;
+}
+
+.upload-vLbqu-, .uploadContainer-TCg-Ji {
+  background: linear-gradient(to bottom, rgb(87, 87, 87) 0%,rgb(44, 44, 44) 50%,rgb(0, 0, 0) 100%); 
 }
 
 /* Invite friends */
