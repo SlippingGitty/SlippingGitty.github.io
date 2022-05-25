@@ -1259,25 +1259,6 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
   border-radius: 0 !important;
 }
 
-/**
- * Snippet from #css-snippets in the Powercord Server "Revert autocomplete style change"
- * Created by Juby210#0577 (324622488644616195)
- * Snippet ID: 803907978226696213
- */
-
-.contentTitle-3CylD3 {
-    color: var(--text-muted);
-}
-.autocompleteRowContentPrimary-1kUW9H .colorInteractiveActive-30E9n8 {
-    font-weight: inherit;
-    font-size: 100%;
-}
-.autocompleteRowContentSecondary-Oobh2b {
-    font-size: 14px;
-    line-height: 18px;
-    color: var(--text-muted);
-}
-
 /** 803907978226696213 */
 
 /* etc */
