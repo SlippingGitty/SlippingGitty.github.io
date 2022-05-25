@@ -825,6 +825,11 @@ display: none;
   border-radius: 3px;
   margin-top: -6px;
 }
+ .messageGroupCozy-3v_RqN {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) !important;
+  border: 1px solid #00000065;
+  border-radius: 3px;
+}
 .channelHeader-DFRX8q {
   background: #00000000 !important;
   color:black;
@@ -854,11 +859,6 @@ display: none;
 }
 .collapseButton-39-IRc {
   left: -2px;
-}
-.messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN {
-  background-color: #545454;
-  border-radius: 10px;
-  border-color: #cacaca;
 }
 
 
