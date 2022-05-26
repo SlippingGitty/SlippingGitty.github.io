@@ -126,6 +126,19 @@ background: transparent;
 .container-2o3qEW, .membersWrap-3NUR2t {
   background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
 }
+.interactiveSelected-29CP8y {
+  background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+  border: 1px solid #00000065;
+}
+.linkButton-2NshQj:hover, .interactive-iyXY_x:hover {
+  background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+  border: 1px solid #00000065;
+}
+.button-12Fmur:hover {
+  background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+  box-shadow: 0 0 3px 3px #4189c38c;
+  transition: 0.3s;
+}
 
 /* Channels */
 .container-1NXEtd {
@@ -359,7 +372,7 @@ background: transparent;
 */
 
 /* Text Box */
-.scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH {
+.scrollableContainer-15eg7h, .hasConnectedBar-1vN2JH, .preview-QJ3OG3 {
   background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) !important;
   border: 1px solid #00000065;
   box-shadow: 0 0 10px 3px #0000008c;
@@ -806,7 +819,12 @@ display: none;
 .profileBannerPreview-3mLIdO {
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) !important;
 }
-
+.side-2ur1Qk:hover .item-3XjbnG:hover {
+  background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) !important;
+  border: 1px solid #00000065;
+  box-shadow: 0 0 3px 3px #4189c38c;
+  transition: 0.3s;
+}
 
 /*
 ///////////////////
@@ -894,6 +912,12 @@ transition: 0.3s;
 
 /* Emote info */
 .emojiSection-3QtaWO {
+  border-radius: 3px;
+  border-width: 1px;
+  border: 1px solid #00000065;
+  background: linear-gradient(rgb(0, 0, 0), rgb(38, 39, 41)) !important;
+}
+.guildSection-2Zyzy8 {
   border-radius: 3px;
   border-width: 1px;
   border: 1px solid #00000065;
@@ -1240,9 +1264,9 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 }
 
 /*
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-////LUCKFIRE - THEME NOTICES - NOTIFICATION - https://github.com/discord-theme-tools/theme-notices/blob/main/LICENSE (WTFPL)
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////LUCKFIRE - THEME NOTICES - NOTIFICATION - https://github.com/discord-theme-tools/theme-notices/blob/main/LICENSE
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 */
 
 .theme-light #app-mount::after {
