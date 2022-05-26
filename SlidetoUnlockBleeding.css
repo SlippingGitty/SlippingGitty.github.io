@@ -1179,19 +1179,25 @@ font-weight: 700;
 //////////////////////
 */
 
+/* Themes and Plugins */
 .card-zvpeVp .content-8jnR93 {
   background: linear-gradient(rgb(28, 27, 31), rgb(39, 40, 41)) ;
   border: .2px solid #000000;
 }
-
 .inner-2pOSmK {
     background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) ;
     border: 1px solid #00000065;
   }
-
-  .inner-2pOSmK:hover {
+.inner-2pOSmK:hover {
     box-shadow: 0 0 2px 3px #4189c38c;
 }
+
+/* Updater */
+.info-1hMolH, .marginBottom20-2t4TRh {
+  background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) ;
+  border: 1px solid #00000065;
+}
+
 
 
 /*
