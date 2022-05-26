@@ -559,6 +559,9 @@ display: none;
   color: rgb(0, 0, 0) !important;
   box-shadow: 2px 2px 2px #00000036 !important;
 }
+.actionButton-3-B2x-:first-child:hover, .actionButton-3-B2x-:hover {
+  background: linear-gradient(to bottom, rgb(163, 163, 163) 0%,rgb(131, 131, 131) 50%,rgb(70, 70, 70) 100%);
+}
 
 /* Most Buttons */
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,  .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .tabBar-ra-EuL .item-3mHhwr {
