@@ -657,7 +657,7 @@ display: none;
     #app-mount .container-2nx-BQ, #app-mount .checkboxWrapper-2fDzaA {
         width: auto;
         border-radius: 0;
-        background: transparent ;
+        background: transparent !important;
         display: flex;
         align-items: center;
         box-shadow: none;
