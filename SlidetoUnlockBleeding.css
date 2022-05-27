@@ -69,7 +69,7 @@ SOFTWARE.
   background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
   background-color: #4e5d94;
 }
-.lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ, .colorable-3rVGna.green-3wkLbx, .colorable-3rVGna.green-3wkLbx, .colorable-3rVGna.green-3wkLbx.active-3D763s {
   background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); 
   border-color: rgba(0, 0, 0, 0.363);
 }
@@ -91,7 +91,7 @@ SOFTWARE.
 
 /* Server "Complete these steps" Banner */
 .wrapper-2SplAX, .notice-1x8lm- {
-  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
+  background: linear-gradient(to bottom, rgb(146, 145, 227) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
   box-shadow: 0 0 5px 5px #4189c38c;
 }
 .lookOutlined-3yKVGo.colorWhite-1H92hK, .lookFilled-yCfaCM.colorPrimary-2AuQVo{
@@ -379,6 +379,12 @@ background: linear-gradient(rgb(18, 19, 21), rgb(63, 66, 75)) ;
 .scrollableContainer-15eg7h:hover {
   box-shadow: 0 0 2px 3px #4189c38c;
 }
+
+
+.root-22AK9z {
+  background-image: url(https://i.postimg.cc/pX47qXRS/chrome-Zv2h-Lqjl-Aq.png);
+}
+
 
 /* Upload Preview */
 .upload-3GTSF9 {
@@ -739,7 +745,7 @@ display: none;
   border: 1px solid #000000;
   color: rgb(0, 0, 0) ;
 }
-.disableButton-3BR0Vj {
+.disableButton-3BR0Vj,  {
   margin-right: 16px;
   border-radius: 3px;
   padding: 6px 10px 5px;
@@ -747,6 +753,15 @@ display: none;
   background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(151, 1, 1) 50%,rgb(227, 145, 145) 100%); 
   border: 1px solid #000000;
   color: rgb(255, 255, 255) ;
+}
+.colorable-3rVGna.red-3T8maV {
+  background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(151, 1, 1) 50%,rgb(227, 145, 145) 100%); 
+  border: 1px solid #000000;
+  color: rgb(255, 255, 255) ;
+}
+.colorable-3rVGna.primaryDark-2UJt1G {
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
+  color: black !important;
 }
 .item-2idW98[aria-checked=true] {
     border-radius: 3px;
@@ -1232,7 +1247,7 @@ font-weight: 700;
 
 /* Logo */
 .childWrapper-1j_1ub {
-background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51, 51) 50%,rgb(161, 161, 161) 100%); 
+background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51, 51) 50%,rgb(161, 161, 161) 100%);
 }
 
 /* Hide some elements */
