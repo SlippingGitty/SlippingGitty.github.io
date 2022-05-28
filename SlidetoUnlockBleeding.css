@@ -90,7 +90,7 @@ SOFTWARE.
 }
 
 /* Server "Complete these steps" Banner */
-.wrapper-2SplAX, .notice-1x8lm- {
+.wrapper-2SplAX, .notice-1x8lm-, .notice-5OG6bf {
   background: linear-gradient(to bottom, rgb(146, 145, 227) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
   box-shadow: 0 0 5px 5px #4189c38c;
 }
@@ -551,7 +551,7 @@ display: none;
 */
 
 /* Server Buttons */
-.circleIconButton-1VxDrg {
+.circleIconButton-1VxDrg, .lookOutlined-3yKVGo.colorGreen-3y-Z79 {
   padding: 6px 10px 5px;
   font-weight: 700;
   background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
@@ -944,7 +944,7 @@ transition: 0.3s;
 }
 
 /* Emote info */
-.emojiSection-3QtaWO {
+.emojiSection-3QtaWO, .header-11eigE {
   border-radius: 3px;
   border-width: 1px;
   border: 1px solid #00000065;
@@ -1203,7 +1203,21 @@ font-weight: 700;
   box-shadow: 2px 2px 2px #00000036 ;
 }
 
-
+/* Powercord toast */
+.powercord-toast .header {
+  background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) ;
+}
+.powercord-toast .contents {
+  background: linear-gradient(rgb(27, 28, 30), rgb(66, 66, 68)) ;
+  border: 1px solid #00000065;
+}
+.powercord-toast .contents .inner {
+  background: linear-gradient(rgb(28, 27, 31), rgb(39, 40, 41)) ;
+  border: .2px solid #000000;
+}
+.powercord-toast .buttons {
+  background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255)) ;
+}
 /*
 //////////////////////
 ///ASTRA SETTINGS
