@@ -58,6 +58,23 @@ SOFTWARE.
   border: .5px solid #00000065;
 }
 
+/* macOS Title Bar */
+.typeMacOS-3V4xXE {
+  position: relative;
+  z-index: 3001;
+  width: 100%;
+  display: flex;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) ;
+}
+.platform-osx .scroller-3X7KbA {
+  padding-top: 16px;
+}
+.platform-osx .layer-86YKbF.baseLayer-W6S8cY {
+  background-color: #000000;
+}
+.platform-osx .searchBar-3TnChZ {
+  background: linear-gradient(rgb(79, 82, 91), rgb(51, 54, 61));
+}
 /*
 /////////////////////////
 ////USER MODE BANNERS
