@@ -1073,6 +1073,27 @@ body *::-webkit-scrollbar {
 	  border-left: 1px solid #fff;
   }
 
+/* Powercord Theme Toggler and Plugins Products */
+.powercord-product {
+  padding: 9px;
+  margin-bottom: 13px;
+}
+.powercord-product-header h4 {
+  font-size: 16px;
+}
+.powercord-product .divider-3LgWDL {
+  display: none;
+}
+.description, .powercord-product .metadata, .powercord-product-permissions, .powercord-product-footer {
+  margin-top: 4px;
+  font-size: 13px;
+}
+
+/* Extra stuff for BetterDiscord-Compat */
+.bdc-plugin .metadata > div {
+  margin-top: 4px;
+  width: 20% !important;
+}
 
 /* Vizality Settings */
 
@@ -1242,4 +1263,5 @@ body *::-webkit-scrollbar {
 .channelTabs-tab.channelTabs-selected {
   	border-bottom: 0px !important;
 }
+
 
