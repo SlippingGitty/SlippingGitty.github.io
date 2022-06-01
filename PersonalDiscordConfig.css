@@ -153,3 +153,8 @@ oooooo     oooo                                            .o88o.  o8o          
 .blockquoteContainer-3VtvI1 blockquote {
     text-indent: -7px;
 }
+
+/* Remove New Member Badge - lucism */
+[class^="newMemberBadge-"] {
+  display:none;
+}
