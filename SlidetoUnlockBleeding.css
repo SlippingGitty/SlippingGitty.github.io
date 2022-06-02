@@ -62,7 +62,7 @@ SOFTWARE.
 .typeMacOS-3V4xXE {
   position: relative;
   width: 100%;
-  background: linear-gradient(rgb(55, 54, 55), rgb(55, 54, 55)) ;
+  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) ;
   border-bottom: 1px solid rgba(0, 0, 0, 0.596);
   height: 35px;
 }
@@ -76,6 +76,7 @@ SOFTWARE.
   margin: 0;
   padding: 0;
 }
+
 /*
 /////////////////////////
 ////USER MODE BANNERS
