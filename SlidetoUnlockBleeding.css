@@ -197,6 +197,14 @@ background: transparent;
   background-color: rgb(172, 169, 169);
 }
 
+/* Threads */
+.form-Ti9oXE {
+  background: linear-gradient(rgb(15, 16, 19), rgb(49, 49, 54)) ;
+}
+.iconWrapper-3plkqh {
+  
+}
+
 /* Servers */
 .scroller-3X7KbA {
   font-weight: 700;
@@ -929,6 +937,13 @@ display: none;
 .header-3_zmOb {
   background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255));
 }
+.iconWrapper-3plkqh {
+  border: 1px solid #000000;
+  background: linear-gradient(to bottom, rgb(255, 255, 255) 0%,rgb(189, 189, 189) 50%,rgb(219, 219, 219) 100%); 
+}
+.icon-382itv {
+  color: #000;
+}
 
 /* User info */
 .theme-dark .footer-1fjuF6 {
@@ -961,7 +976,7 @@ transition: 0.3s;
 }
 
 /* Emote info */
-.emojiSection-3QtaWO, .header-11eigE {
+.emojiSection-3QtaWO .header-11eigE {
   border-radius: 3px;
   border-width: 1px;
   border: 1px solid #00000065;
@@ -1199,7 +1214,7 @@ font-weight: 700;
   border: .2px solid #000000;
 }
 
-/* Powercord products */
+/* Powercord Theme Toggler and Plugins Products */
 .powercord-product {
   background: linear-gradient(rgb(38, 39, 41), rgb(72, 73, 75)) ;
   border: .2px solid #000000;
@@ -1346,6 +1361,14 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
   background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,hsl(227, 31%, 44%) 50%,rgb(112, 131, 197) 100%); 
   background-color: #4e5d94;
 }
+.contentWrapper-3vHNP2 {
+  background: linear-gradient(rgba(29,29,29,255), rgba(1,1,1,255));
+}
+.communityInfoPill-2Mll66 {
+  background: linear-gradient(to bottom, rgb(227, 145, 145) 0%,rgba(196, 25, 25, 0.705) 50%,rgba(227, 145, 145, 0.397) 100%); 
+  display:none;
+  }
+
 /* Unread Badge */
 .numberBadge-37OJ3S, .newBadge-1bHewI {
   background: linear-gradient(to bottom, rgb(227, 145, 145) 0%,rgba(196, 25, 25, 0.705) 50%,rgba(227, 145, 145, 0.397) 100%); 
@@ -1385,8 +1408,3 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 /// HOTFIXES AND ADDITIONAL STUFF TO ORGANIZE WHEN IM NOT A LAZY LITTLE SHIT
 ////////////////////////////////////////////////////////////////////////////////
 */
-
-.communityInfoPill-2Mll66 {
-background: linear-gradient(to bottom, rgb(227, 145, 145) 0%,rgba(196, 25, 25, 0.705) 50%,rgba(227, 145, 145, 0.397) 100%); 
-display:none;
-}
