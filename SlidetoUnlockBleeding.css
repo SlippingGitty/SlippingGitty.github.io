@@ -61,19 +61,20 @@ SOFTWARE.
 /* macOS Title Bar */
 .typeMacOS-3V4xXE {
   position: relative;
-  z-index: 3001;
   width: 100%;
-  display: flex;
-  background: linear-gradient(rgb(72, 73, 75), rgb(38, 39, 41)) ;
+  background: linear-gradient(rgb(55, 54, 55), rgb(55, 54, 55)) ;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.596);
+  height: 35px;
 }
 .platform-osx .scroller-3X7KbA {
   padding-top: 16px;
 }
 .platform-osx .layer-86YKbF.baseLayer-W6S8cY {
-  background-color: #000000;
+  background-color: rgb(32, 34, 37);
 }
-.platform-osx .searchBar-3TnChZ {
-  background: linear-gradient(rgb(79, 82, 91), rgb(51, 54, 61));
+.platform-osx .wrapper-1_HaEi {
+  margin: 0;
+  padding: 0;
 }
 /*
 /////////////////////////
@@ -1408,3 +1409,4 @@ background: linear-gradient(to bottom, rgba(227, 145, 145, 0.363) 0%,rgb(51, 51,
 /// HOTFIXES AND ADDITIONAL STUFF TO ORGANIZE WHEN IM NOT A LAZY LITTLE SHIT
 ////////////////////////////////////////////////////////////////////////////////
 */
+
