@@ -24,7 +24,6 @@ SOFTWARE.
 
 */
 
-
 /*
 /////////////////////////
 //// Title Bar on macOS
@@ -421,6 +420,108 @@ div[aria-label="Text (Age-Restricted)"] > svg {
 
 .bd-addon-card .bd-addoncard-header {
   background: transparent;
+}
+
+/*
+///////////////////////
+//// Guilds
+///////////////////////
+*/
+.theme-dark .guilds-2JjMmN .scroller-3X7KbA,
+.theme-dark .wrapper-1_HaEi {
+  background-color: var(--surCordGuilds);
+}
+.theme-dark .platform-osx .unreadMentionsIndicatorTop-2bTgUU .unreadMentionsBar-ZXXoOH,
+.theme-dark .unreadMentionsIndicatorBottom-3RJMnQ .unreadMentionsBar-ZXXoOH, .theme-dark .unreadMentionsIndicatorTop-2bTgUU .unreadMentionsBar-ZXXoOH {
+  background: linear-gradient(rgb(44, 192, 90), rgb(45, 179, 87));
+  backdrop-filter: blur(5px);
+}
+.theme-dark .expandedFolderBackground-1kSAf6 {
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
+  border: 1px solid rgb(78, 78, 81);
+  border-radius: 15px;
+  background: rgba(41, 38, 39, 0.276);
+}
+.theme-dark .closedFolderIconWrapper-3tRb2d {
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
+  border: 1px solid rgb(78, 78, 81);
+  border-radius: 15px;
+  background: rgba(41, 38, 39, 0.276);
+}
+.theme-dark .expandedFolderBackground-1kSAf6.collapsed-uGXEbi,
+.theme-dark .expandedFolderBackground-1kSAf6.collapsed-uGXEbi.hover-3m7-WT {
+  display: none;
+}
+.theme-dark .folder-241Joy,
+.theme-dark .folder-241Joy:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+.theme-dark .item-2LIpTv {
+  width: 8px;
+  border-radius: 5px 5px 5px 5px;
+  margin-left: 0px;
+  background-color: rgb(145, 138, 152);
+}
+.theme-dark .circleIconButton-1VxDrg {
+  backdrop-filter: blur(20px);
+  border: 1px solid rgb(78, 78, 81);
+  border-radius: 15px;
+  background: rgba(39, 38, 41, 0.276);
+  color: var(--accent-selected);
+}
+.theme-dark .circleIconButton-1VxDrg:hover {
+  background: rgba(99, 81, 199, 0.276);
+  color: var(--accent-selected);
+}
+
+.theme-light .guilds-2JjMmN .scroller-3X7KbA,
+.theme-light .wrapper-1_HaEi {
+  background-color: rgb(225, 225, 225);
+}
+.theme-light .platform-osx .unreadMentionsIndicatorTop-2bTgUU .unreadMentionsBar-ZXXoOH,
+.theme-light .unreadMentionsIndicatorBottom-3RJMnQ .unreadMentionsBar-ZXXoOH {
+  background: linear-gradient(rgb(44, 192, 90), rgb(45, 179, 87));
+}
+.theme-light .expandedFolderBackground-1kSAf6 {
+  backdrop-filter: blur(20px);
+  background: rgba(226, 221, 225, 0.89);
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.146);
+  border: 1px solid rgba(249, 249, 249, 0.772);
+  border-radius: 15px;
+}
+.theme-light .closedFolderIconWrapper-3tRb2d {
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 15px;
+  background: rgba(207, 222, 222, 0.276);
+}
+.theme-light .expandedFolderBackground-1kSAf6.collapsed-uGXEbi,
+.theme-light .expandedFolderBackground-1kSAf6.collapsed-uGXEbi.hover-3m7-WT {
+  display: none;
+}
+.theme-light .folder-241Joy,
+.theme-light .folder-241Joy:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+.theme-light .item-2LIpTv {
+  width: 8px;
+  border-radius: 5px 5px 5px 5px;
+  margin-left: 0px;
+  background-color: rgb(145, 138, 152);
+}
+.theme-light .circleIconButton-1VxDrg {
+  background: rgba(231, 234, 237, 0.436) !important;
+  backdrop-filter: blur(20px);
+  border: 1px solid rgb(186, 186, 186);
+  border-radius: 15px;
+  color: var(--accent-selected);
+}
+.theme-light .circleIconButton-1VxDrg:hover {
+  background: rgba(99, 81, 199, 0.276);
+  color: var(--accent-selected);
 }
 
 /*
