@@ -1,0 +1,20 @@
+:root {
+  --PGBackgroundD: rgb(10, 10, 10);
+  --PGBackground2D: 	rgb(0,0,0);
+  --PGTextBackgroundD: #000000;
+  --PGColorTextD: rgb(255, 255, 255);
+  --accent-keysD: rgb(255, 255, 255);
+  --accentD: rgb(246,14,4);
+  --accent-hoverD: rgba(246,14,4, 0.977);
+  --accent-selectedD: rgb(246,14,4, 0.612);
+  --accent-focusedD: rgb(246,14,4, 0.2);
+}
+.theme-dark .iconWrapper-2awDjA .icon-2xnN2Y, .theme-dark .stickerIcon-3Jx5SE, .theme-dark .icon-1d5zch, .theme-dark .circleIcon-3489FI, .theme-dark .buttonWrapper-3YFQGJ, .theme-dark .contents-3ca1mk .button-2fCJ0o .button-3BaQ4X, .theme-dark .membersGroup-2eiWxl {
+  color: var(--accent-keysD) !important;
+}
+.theme-dark .circleIcon-3489FI {
+  color: rgb(255, 255, 255, 0.7) !important;  
+}
+.theme-dark .name-28HaxV {
+  color: rgb(255, 255, 255, 0.5) !important;
+}
