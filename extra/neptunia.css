@@ -1,0 +1,17 @@
+:root {
+  --PGBackgroundD: rgb(0,0,0, 0.6);
+  --PGBackground2D: rgb(0,0,0, 0.6);
+  --PGBackground3D: rgb(0,0,0, 0.5);
+  --PGTextBackgroundD: rgb(0,0,0, 0.300);
+  --PGColorTextD: rgb(255, 248, 235);
+  --accentD: rgb(168,139,208);
+  --accent-hoverD: rgba(168,139,208, 0.977);
+  --accent-selectedD: rgba(168,139,208, 0.612);
+  --accent-focusedD: rgb(168,139,208, 0.200);
+}
+    
+body {
+  background-image: url("https://files.catbox.moe/j2muyn.jpeg"); 
+  background-size: cover;
+  opacity: 0.9;
+}
